@@ -15,11 +15,13 @@
 			padding: 5px;
 			text-align: justify;
 			font-family: 'Bitter', serif;
+			min-height: 500px;
+			display: table;
 		}
 		.email_header
 		{
 			color: #FFF;
-			max-height: 25%;
+			min-height: 25%;
 			border: 1px solid #000;
 			padding: 10px;
 			padding-bottom: 2px;
@@ -30,7 +32,7 @@
 		{
 			background-color: #FFF;
 			color: #000;
-			max-height: 75%;
+			min-height: 300px;
 			height: 250px;
 			margin-top:2px;
 			padding: 10px;
@@ -43,10 +45,6 @@
 			width: 100%;
 			padding-left: 0px;
 			padding-bottom: 10px;
-		}
-		tr, td 
-		{
-/*			border: 1px #006600 solid;*/
 		}
 		.email_subject
 		{
@@ -82,14 +80,18 @@
 			color: #000;
 			font-family: 'Source Sans Pro', sans-serif;
 		}
-		.email_button_img
-		{
-/*			border: 1px solid #000;*/
-		}
 		.email_date_time
 		{
 			font-size: 12px;
 			text-align: right;
+		}
+		.email_body_tab
+		{
+			width: 10%;
+		}
+		.email_body_2
+		{
+			text-align: left;
 		}
 	</style>
 	
@@ -135,14 +137,32 @@
 			</table>
 		</div>
 		<div class="email_body">
-			Hi asdfasdf,
-			<br />
-			<br />
-			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; asdfasdfa;sdf<br />
-			<br />
-			Thanks,
-			<br />
-			asdfasdf
+			<table>
+				<tr>
+					<td colspan="2">Hi Zeke,</td>
+				</tr>
+				<tr>
+					<td class="email_body_tab">&nbsp;</td>
+					<td class="email_body_2">
+						line 1<br />
+						line 2<br />
+						line 3<br />
+						line 4<br />
+						line 5<br />
+						line 6<br />
+						line 7<br />
+						line 8<br />
+						line 9<br />
+						line 10<br />
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">Thanks,</td>
+				</tr>
+				<tr>
+					<td>Ana</td>
+				</tr>
+			</table>
 	  </div>
 	</div>
 	
