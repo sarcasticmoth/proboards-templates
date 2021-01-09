@@ -1,14 +1,14 @@
 [div][attr="class","vibe_background"][div][attr="class","vibe_inner_background"][div][attr="class","vibe_header]welcome to elysium[/div]
-			[div][attr="class","vibe_tag"][b]@[/b]thetitanoceanus[/div]
+			[div][attr="class","vibe_tag"][b]@thedaemonspirit [/b][/div]
 			[div][attr="class","vibe_tag_quote"]"These are not troops. They are skeletons"[/div]
 			[div][attr="class","vibe_post_background"][table][tbody][tr][td style="padding-right:10px;width:100px;"]
-						[attr="class","vibe_post_img"][img src="https://github.com/sarcasticmoth/proboards-templates/blob/main/pics/leo/Vibe_hacker_Icon.png?raw=true" style="max-width:100%;" alt="GIF"]
+						[attr="class","vibe_post_img"][img alt="GIF" src="https://github.com/sarcasticmoth/proboards-templates/blob/main/pics/leo/Vibe_hacker_Icon.png?raw=true" style="max-width:100%;"]
 					[/td][td style="padding:3px;"]
 					"The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants. It is its natural manure"
 					-Thomas Jefferson
 					[/td][/tr][/tbody][/table][/div]
 		[div][attr="class","vibe_post_date"][b]January 13, 2025, at 00:12[/b][/div]
-	[/div][div style="font-size:11px;font-family:calibri;text-transform:lowercase;text-align:center;"]made by @audrey      &amp;&amp; @thevanessa     , modified from a template made by [a href="http://adoxographyv2.boards.net/user/10844"]aspaaan[/a][/div]
+	[/div][div style="font-size:11px;font-family:calibri;text-transform:lowercase;text-align:center;"]made by @audrey        &amp;&amp; @thevanessa       , modified from a template made by [a href="http://adoxographyv2.boards.net/user/10844"]aspaaan[/a][/div]
 [/div]
 
 [googlefont=Source Code Pro]
