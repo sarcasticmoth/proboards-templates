@@ -1,53 +1,43 @@
+[div][attr="class","mom_email_box"]
+[div][attr="class","mom_email_main"]
+[div][attr="class","mom_email_header"]
+[span style="margin-left:10px;"][attr="class","mom_email_header_subject"]Phishing Emails[/span]
+[hr]
+[img style="width:75px;height:75px;float:left;border-radius:50%;border:1px solid #000;margin-left:5px;" src="https://github.com/sarcasticmoth/proboards-templates/blob/main/pics/leo/leo_email_icon.jpg?raw=true"][img src="https://github.com/sarcasticmoth/proboards-templates/blob/main/images/OutlookButtons.gif?raw=true" style="max-width:100%;float:right;padding-right:5px;"][div][attr="class","mom_email_header_FROM"]FROM:[/div][div][attr="class","mom_email_header_FROM_EMAIL"]MoM IT Department[/div][div][attr="class","mom_email_header_DATE"]Thu 03/12/2025 10:43 AM[/div][div][attr="class","mom_email_header_TO"]TO:[/div][div][attr="class","mom_email_header_TO_EMAIL"]ALL MoM[/div][div][attr="class","mom_email_header_CC"]CC:[/div][div][attr="class","mom_email_header_CC_EMAIL"][/div][hr]
+[/div]
+[div][attr="class","mom_email_body"]
+[div][attr="class","mom_email_body_text"]
+[b]Attn: All Ministry of Magic Employees[/b]
+
+[b]Warning[/b]: Please be conscious of emails with external origins (emails not from another Ministry Employee). They will likely be asking for personal information i.e. middle name, mother’s maiden name, your owl’s name, name of your pygmy puff, Ministry employee ID, etc. This can be used by malicious parties to obtain confidential information. 
+
+Please do not click on any attachments or links on the suspicious email.
+
+Again a fake wizarding campaign (Please Educate Neophytes in Spellwork) is spamming Ministry Employee emails. The IT department is scheduling time to update Ministry system security policies soon. 
+
+NOTE: Phishing has nothing to do with fishing. There are no wizards scamming you with fake fish.
+
+
+Thank You,
+Ministry of Magic IT Department
+[/div]
+[/div]
+[/div]
+[/div]
+
 [googlefont="Source Sans Pro"]
 [googlefont="Merriweather"]
 [googlefont="Syne Mono"]
-[nospaces]
-[newclass=".first_layer"]background-color: #666666;width: 500px;margin: auto;border: 1px solid #000000;padding: 5px;text-align: justify;font-family: 'Merriweather', serif;min-height: 500px;display: table;[/newclass]
-[newclass=".email_header"]color: #FFFFFF;border: 1px solid #000000;padding: 10px;padding-bottom: 2px;position: relative;height: 175px;[/newclass]
-[newclass=".email_body"]background-color: #FFFFFF;color: #000000;min-height: 300px;height: 250px;margin-top:2px;padding: 10px;position: relative;border: 1px solid #000000;font-family: 'Source Sans Pro', sans-serif;[/newclass]
-[newclass=".email_subject"]font-size:20px;text-align: left;[/newclass]
-[newclass=".email_icon"]text-align: center;font-size:22px;[/newclass]
-[newclass=".email_icon_avatar img"]width: 75px;background-size: cover;border-radius: 50%;padding-right: 10px;[/newclass]
-[newclass=".fixed_width_col"]width: 50px;font-size: 12px;padding-right: 10px;[/newclass]
-[newclass=".email_header_text"]font-size: 12px;[/newclass]
-[newclass=".email_button"]font-size: 9px;text-align: right;color: #000000;font-family: 'Source Sans Pro', sans-serif;[/newclass]
-[newclass=".email_date_time"]font-size: 12px;text-align: right;[/newclass]
-[newclass=".email_body"]font-size: 10px; text-align: justify;padding:25px;[/newclass]
-[newclass=".spacer"]width:10px;[/newclass]
-
-[div][attr="class","first_layer"]
-[div][attr="class","email_header"]
-[table][tbody][tr][td colspan="7"][attr="class","email_subject"]Please complete your training modules[/td][/tr][tr][td colspan="7"][hr][/td][/tr][tr][td rowspan="6"][attr="class","email_icon"][attr="class","email_icon_avatar"][img src="https://github.com/sarcasticmoth/proboards-templates/blob/main/pics/anastasia/email-icon.png?raw=true" style="max-width:100%;"][/td][td colspan="4"][attr="class","email_button"][attr="class","email_button_img"][img style="max-width:100%;" src="https://github.com/sarcasticmoth/proboards-templates/blob/main/images/OutlookButtons.gif?raw=true" alt=""][/td][/tr][tr][td][attr="class","fixed_width_col"]FROM[/td][td][attr="class","email_header_text"]Karkaroff, Anastasia[/td][td][attr="class","spacer"][/td][td][attr="class","email_date_time"]Thu 07/01/2021 1:25 PM[/td][/tr][tr][td][attr="class","fixed_width_col"]TO[/td][td colspan="3"][attr="class","email_header_text"]Walker, Ezekiel; Malfoy, Scorpius[/td][/tr][tr][td][attr="class","fixed_width_col"]CC[/td][td colspan="3"][attr="class","email_header_text"]Rivera, Bianca; Slater, Claire; Medina, Leonardo; Krum, Victor
-
-[/td][/tr][tr][td][/td][/tr][tr][td colspan="5"][hr][/td][/tr][/tbody][/table]
-[/div]
-[div][attr="class","email_body"]
-[attr="style","text-align:left;"]
-[div]
-Hi Zeke, [break][break]
-
-[div]
-line 1[break]
-line 2[break]
-line 3[break]
-line 4[break]
-line 5[break]
-line 6[break]
-line 7[break]
-line 8[break]
-line 9[break]
-line 10[break]
-[/div]
-[break]
-[div][break]
-Thanks, [break]
-Ana
-[/div]
-
-[/div]
-[/div]
-
-
-
-
-[/div]
+[newclass=".mom_email_box"]width:600px;height:500px;margin:0px auto;font-family: 'Merriweather', serif;[/newclass]
+[newclass=".mom_email_main]border:1px solid #000;width:500px;height:100%;margin-top:-15px;margin-left:50px;[/newclass]
+[newclass=".mom_email_header]background-color:#666;color:#FFF;border:1px solid #000;width:500px;height:200px;margin:0px;position:absolute;margin-top:-15px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_subject]font-size:20px;text-align:left;line-height:10px;[/newclass]
+[newclass=".mom_email_header_FROM"]width:50px;height:20px;padding-top:5px;margin-top:40px;margin-left:100px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_FROM_EMAIL"]width:175px;height:20px;padding-top:5px;margin-top:-25px;margin-left:160px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_DATE"]width:155px;height:20px;font-size:12px;text-align:right;padding-top:5px;padding-right:5px;margin-top:-27px;margin-left:335px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_TO"]width:50px;height:25px;padding-top:5px;margin-top:10px;margin-left:100px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_TO_EMAIL"]width:335px;height:25px;text-alight:left;padding-top:5px;margin-top:-31px;margin-left:160px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_CC"]width:50px;height:20px;padding-top:5px;margin-top:5px;margin-left:100px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_CC_EMAIL"]width:335px;height:20px;text-alight:left;padding-top:5px;margin-top:-27px;margin-left:160px;font-size:12px;[/newclass]
+[newclass=".mom_email_body"]width:500px;background-color:#FFF;height:300px;margin:0px;position:absolute;margin-top:175px;font-family:'Source Sans Pro',sans-serif;font-size:12px;[/newclass]
+[newclass=".mom_email_body_text"]color:#000;padding-left:20px;font-size:12px;[/newclass]
