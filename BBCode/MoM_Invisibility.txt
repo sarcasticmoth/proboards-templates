@@ -1,0 +1,39 @@
+[div][attr="class","mom_email_box"]
+[div][attr="class","mom_email_main"]
+[div][attr="class","mom_email_header"]
+[span style="margin-left:10px;"][attr="class","mom_email_header_subject"]Invisibility Task Force[/span]
+[hr]
+[img src="https://github.com/sarcasticmoth/proboards-templates/blob/main/pics/leo/leo_email_icon.jpg?raw=true" style="width:75px;height:75px;float:left;border-radius:50%;border:1px solid #000;margin-left:5px;"][img style="max-width:100%;float:right;padding-right:5px;" src="https://github.com/sarcasticmoth/proboards-templates/blob/main/images/OutlookButtons.gif?raw=true"][div][attr="class","mom_email_header_FROM"]FROM:[/div][div][attr="class","mom_email_header_FROM_EMAIL"]MoM IT Department[/div][div][attr="class","mom_email_header_DATE"]Thu 22/12/2025 01:09 PM[/div][div][attr="class","mom_email_header_TO"]TO:[/div][div][attr="class","mom_email_header_TO_EMAIL"]ALL MoM[/div][div][attr="class","mom_email_header_CC"]CC:[/div][div][attr="class","mom_email_header_CC_EMAIL"][/div][hr]
+[/div]
+[div][attr="class","mom_email_body"]
+[div][attr="class","mom_email_body_text"]
+[b]Sent on behalf of MoM Invisibility Task Force[/b]
+
+Attn: All Ministry of Magic Employees
+
+An Invisibility Cloak has recently gone missing from task force headquarters. The cloak was hung on a coat-rack near the office entrance. After several employees had trouble locating their cloaks and caught a chill leaving the office without them, the Invisibility Cloak was moved to a new location and now cannot be found.
+
+If you see a patch of wall missing, or only half a person, this may be our missing Cloak. Please write to the Invisibility Task Force if you think you don’t see it.
+
+
+Thank You,
+Ministry of Magic Invisibility Task Force
+
+
+
+[/div][/div][/div][/div][googlefont="Source Sans Pro"]
+[googlefont="Merriweather"]
+[googlefont="Syne Mono"]
+[newclass=".mom_email_box"]width:600px;height:500px;margin:0px auto;font-family: 'Merriweather', serif;[/newclass]
+[newclass=".mom_email_main]border:1px solid #000;width:500px;height:100%;margin-top:-15px;margin-left:50px;[/newclass]
+[newclass=".mom_email_header]background-color:#666;color:#FFF;border:1px solid #000;width:500px;height:200px;margin:0px;position:absolute;margin-top:-15px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_subject]font-size:20px;text-align:left;line-height:10px;[/newclass]
+[newclass=".mom_email_header_FROM"]width:50px;height:20px;padding-top:5px;margin-top:40px;margin-left:100px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_FROM_EMAIL"]width:175px;height:20px;padding-top:5px;margin-top:-25px;margin-left:160px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_DATE"]width:155px;height:20px;font-size:12px;text-align:right;padding-top:5px;padding-right:5px;margin-top:-27px;margin-left:335px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_TO"]width:50px;height:25px;padding-top:5px;margin-top:10px;margin-left:100px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_TO_EMAIL"]width:335px;height:25px;text-alight:left;padding-top:5px;margin-top:-31px;margin-left:160px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_CC"]width:50px;height:20px;padding-top:5px;margin-top:5px;margin-left:100px;font-size:12px;[/newclass]
+[newclass=".mom_email_header_CC_EMAIL"]width:335px;height:20px;text-alight:left;padding-top:5px;margin-top:-27px;margin-left:160px;font-size:12px;[/newclass]
+[newclass=".mom_email_body"]width:500px;background-color:#FFF;min-height:300px;margin:0px;position:absolute;margin-top:175px;font-family:'Source Sans Pro',sans-serif;font-size:12px;[/newclass]
+[newclass=".mom_email_body_text"]color:#000;padding-left:20px;font-size:12px;padding-right:5px;[/newclass]
