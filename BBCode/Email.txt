@@ -1,37 +1,26 @@
 [div][attr="class","mom_email_box"]
 [div][attr="class","mom_email_main"]
 [div][attr="class","mom_email_header"]
-[span style="margin-left:10px;"][attr="class","mom_email_header_subject"]Phishing Emails[/span]
+[span style="margin-left:10px;"][attr="class","mom_email_header_subject"]Request for Appointment - Reapplication of Charms[/span]
 [hr]
-[img style="width:75px;height:75px;float:left;border-radius:50%;border:1px solid #000;margin-left:5px;" src="https://github.com/sarcasticmoth/proboards-templates/blob/main/pics/leo/leo_email_icon.jpg?raw=true"][img src="https://github.com/sarcasticmoth/proboards-templates/blob/main/images/OutlookButtons.gif?raw=true" style="max-width:100%;float:right;padding-right:5px;"][div][attr="class","mom_email_header_FROM"]FROM:[/div][div][attr="class","mom_email_header_FROM_EMAIL"]MoM IT Department[/div][div][attr="class","mom_email_header_DATE"]Thu 03/12/2025 10:43 AM[/div][div][attr="class","mom_email_header_TO"]TO:[/div][div][attr="class","mom_email_header_TO_EMAIL"]ALL MoM[/div][div][attr="class","mom_email_header_CC"]CC:[/div][div][attr="class","mom_email_header_CC_EMAIL"][/div][hr]
+[img style="width:75px;height:75px;float:left;border-radius:50%;border:1px solid #000;margin-left:5px;" src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/leo/leo_email_icon.jpg"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/images/OutlookButtons.gif" style="max-width:100%;float:right;padding-right:5px;"][div][attr="class","mom_email_header_FROM"]FROM:[/div][div][attr="class","mom_email_header_FROM_EMAIL"]MoM IT Department[/div][div][attr="class","mom_email_header_DATE"]18/12/2025 011:44 AM[/div][div][attr="class","mom_email_header_TO"]TO:[/div][div][attr="class","mom_email_header_TO_EMAIL"]MoM Maintenance[/div][div][attr="class","mom_email_header_CC"]CC:[/div][div][attr="class","mom_email_header_CC_EMAIL"][/div][hr]
 [/div]
 [div][attr="class","mom_email_body"]
 [div][attr="class","mom_email_body_text"]
-[b]Attn: All Ministry of Magic Employees[/b]
+[b]Sent on behalf of Ministry of Magic Foreign Aid Office[/b]
 
-[b]Warning[/b]: Please be conscious of emails with external origins (emails not from another Ministry Employee). They will likely be asking for personal information i.e. middle name, mother’s maiden name, your owl’s name, name of your pygmy puff, Ministry employee ID, etc. This can be used by malicious parties to obtain confidential information. 
+The atmospheric and ambient charms placed by your department in our offices have begun to fade. It recently rained during our last conference meeting (even going so far as to shoot lightning at one of the interns), and the dustbins have begun to fling trash at unfortunately-located employees. The presence of a spell reversal expert is requested to address these incidents so that we may return to work without fear of attack by office supplies.
 
-Please do not click on any attachments or links on the suspicious email.
-
-Again a fake wizarding campaign (Please Educate Neophytes in Spellwork) is spamming Ministry Employee emails. The IT department is scheduling time to update Ministry system security policies soon. 
-
-NOTE: Phishing has nothing to do with fishing. There are no wizards scamming you with fake fish.
+Please send someone by no later than January 3rd.
 
 
-Thank You,
-Ministry of Magic IT Department
-[/div]
-[/div]
-[/div]
-[/div]
-
-[googlefont="Source Sans Pro"]
+[/div][/div][/div][/div][googlefont="Source Sans Pro"]
 [googlefont="Merriweather"]
 [googlefont="Syne Mono"]
-[newclass=".mom_email_box"]width:600px;height:500px;margin:0px auto;font-family: 'Merriweather', serif;[/newclass]
-[newclass=".mom_email_main]border:1px solid #000;width:500px;height:100%;margin-top:-15px;margin-left:50px;[/newclass]
+[newclass=".mom_email_box"]width:600px;min-height:500px;margin:0px auto;font-family: 'Merriweather', serif;[/newclass]
+[newclass=".mom_email_main]width:500px;height:100%;margin-top:-15px;margin-left:50px;[/newclass]
 [newclass=".mom_email_header]background-color:#666;color:#FFF;border:1px solid #000;width:500px;height:200px;margin:0px;position:absolute;margin-top:-15px;font-size:12px;[/newclass]
-[newclass=".mom_email_header_subject]font-size:20px;text-align:left;line-height:10px;[/newclass]
+[newclass=".mom_email_header_subject]font-size:16px;text-align:left;line-height:10px;[/newclass]
 [newclass=".mom_email_header_FROM"]width:50px;height:20px;padding-top:5px;margin-top:40px;margin-left:100px;font-size:12px;[/newclass]
 [newclass=".mom_email_header_FROM_EMAIL"]width:175px;height:20px;padding-top:5px;margin-top:-25px;margin-left:160px;font-size:12px;[/newclass]
 [newclass=".mom_email_header_DATE"]width:155px;height:20px;font-size:12px;text-align:right;padding-top:5px;padding-right:5px;margin-top:-27px;margin-left:335px;font-size:12px;[/newclass]
@@ -39,5 +28,5 @@ Ministry of Magic IT Department
 [newclass=".mom_email_header_TO_EMAIL"]width:335px;height:25px;text-alight:left;padding-top:5px;margin-top:-31px;margin-left:160px;font-size:12px;[/newclass]
 [newclass=".mom_email_header_CC"]width:50px;height:20px;padding-top:5px;margin-top:5px;margin-left:100px;font-size:12px;[/newclass]
 [newclass=".mom_email_header_CC_EMAIL"]width:335px;height:20px;text-alight:left;padding-top:5px;margin-top:-27px;margin-left:160px;font-size:12px;[/newclass]
-[newclass=".mom_email_body"]width:500px;background-color:#FFF;height:300px;margin:0px;position:absolute;margin-top:175px;font-family:'Source Sans Pro',sans-serif;font-size:12px;[/newclass]
-[newclass=".mom_email_body_text"]color:#000;padding-left:20px;font-size:12px;[/newclass]
+[newclass=".mom_email_body"]border:1px solid #000;width:500px;background-color:#FFF;min-height:299px;margin:0px;position:absolute;margin-top:175px;font-family:'Source Sans Pro',sans-serif;font-size:12px;[/newclass]
+[newclass=".mom_email_body_text"]color:#000;padding-left:20px;font-size:12px;padding-right:5px;[/newclass]
