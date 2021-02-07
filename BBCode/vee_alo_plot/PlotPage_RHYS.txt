@@ -1,38 +1,43 @@
 [googlefont="Share Tech Mono"]
 [googlefont="Montserrat"]
 
-[div style="text-align:center;background-color:#F1F1F1;padding:10px;color:#000;font-family: 'Share Tech Mono', monospace;font-size:10px"]Hey! You can post on here, PM @thevanessa or Message me on Discord for plots :] [/div]
-[hr]
-
-[div][attr="class","plotter_file"]
+[div style="text-align:center;background-color:#F1F1F1;padding:10px;color:#000;font-family:&apos;font-size:10px;"]Hey! You can post on here, PM @thevanessa                       or Message me on Discord for plots [img alt=":&#93;" class="smile" style="max-width:100%;" src="//storage.proboards.com/5647952/images/WklQECIjlNKAXQjwZSAy.gif"] [/div]
+[hr][div][attr="class","plotter_file"]
 [div][attr="class","single_file"][div][attr="class","plot_header_section"][div][attr="class","plot_header_caption"]VEE'S PAWN[/div]
 [div][attr="class","plot_header_title"]GREYBACK, RHYS ALEXANDER[/div]
 [/div][div][attr="class","info_container"][div][attr="class","info_container_table_parent"]
-[table][tbody][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]FIRST NAME[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]LAST NAME[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Tag[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Rhys[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Greyback[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]@vanessa[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Age[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Blood Status[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Wand[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]twenty-five[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Half-Blood
-Werewolf[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]10in, Blackthorn, Dragon Heartstring[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]D.O.B.[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Sexuality[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Gender[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]25 Aug 2000[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Straight[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Male[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Relationship[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Education[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Affiliation[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Uncomitted[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Hogwarts
-Slytherin '18[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Heliopath[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"]Family[/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:0 1px 1px 1px;"][div][attr="class","info_content_overflow"]@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship][/div][/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Known Affiliations[/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:0 1px 1px 1px;"][div][attr="class","info_content_overflow"]@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship][/div][/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"]Notes[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]Rhys is your average introvert, he grew up without many people close to him until he got to Hogwarts. There are only a handful that are close to him and he takes trust very seriously and his loyalties tend to lie with people versus as a general rule. He's a werewolf and the oldest of the Greyback pack and is protective of them. 
+[table][tbody][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][font face="Share Tech Mono"][attr="class","info_title"]FIRST NAME[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][font face="Share Tech Mono"][attr="class","info_title"]LAST NAME[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]TAG[/font][/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Rhys[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Greyback[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]@vanessa    [/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]AGE[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]BLOOD STATUS[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]WAND[/font][/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]twenty-five[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Half-Blood
+Werewolf[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]10in
+Blackthorn
+Dragon Heartstring[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]D.O.B.[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]SEXUALITY[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]GENDER[/font][/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]25 Aug 2000[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Straight[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Male[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]RELATIONSHIP[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]EDUCATION[/font][/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]AFFILIATION[/font][/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Uncomitted[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Hogwarts
+Slytherin '18[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Heliopath[/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"][font face="Share Tech Mono"]FAMILY[/font][/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]@jamie  - younger sister
+@dahlia  - younger sister
+@maxima  - younger sister
+@jean  - younger brother
+@ava  - younger sister[/div][/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"][font face="Share Tech Mono"]KNOWN ASSOCIATES[/font][/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]@vasilia  - close friend (he is stupid and doesn't realize his feels yet)
+@jasper   - close friend, former coworker
+@nell   - close friend, former classmate, one-night-stand
+@clodagh   - friend, former classmate
+@maria   - half-brother's maternal cousin, emotional support person, baby momma
+@cas   - good friend, former coworker/mentor
+@deva   - ex-girlfriend, first love, close friend
+@sapphirerose   - good friends, ex-girlfriend
+@renfri   - close friend, former coworker, former classmate
+@claire   - close friend, heliopath, one-night-stand
+@alfie   - good friend, drinking buddy
+@nixie   - good friend, coworker
+@sienna   - close friend
+@ilija   - good friend, former classmates, coworkers
+@seph   - good friend, former pen-pals
+@lily   - good friend, like a younger sister
+@tia   - friend, friend-with-benefits
+@mina   - friend, drinking buddy, friend-with-benefits
+@sutton   - friend, friend-with-benefits
+@edward   - good friend, drinking buddy
+@alix   - friends, friend-with-benefits
+@donatella   - friends, friend-with-benefits
+@felixt   - friends, drinking buddy
+[/div][/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"][font face="Share Tech Mono"]NOTES[/font][/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:0 1px 1px 1px;"][div][attr="class","info_content_overflow"]Rhys is your average introvert, he grew up without many people close to him until he got to Hogwarts. There are only a handful that are close to him and he takes trust very seriously and his loyalties tend to lie with people versus as a general rule. He's a werewolf and the oldest of the Greyback pack and is protective of them. 
 
 FRIENDS:
 Most of Rhys' close friends are from his early school days or through his work as a Curse Breaker. In his mind he can be more himself with them without fear of judgement of innocuous thing such as his namesake. Plus those that he is close to through he works he has an immense amount of trust with since the work can be dangerous and they are expected to have each other's backs. 
@@ -43,14 +48,15 @@ There are still those who are prejudiced against werewolves and the Greybacks an
 LOVERS:
 Rhys isn't known for for being incredibly emotional and generally remains very guarded about himself. If his abandonment issues don't get in his way his rejection issues certainly do and he tends to have flings and one night stands rather than committed relationships.[/div][/td][/tr][/tbody][/table]
 [/div]
-[div][attr="class","plot_app_box"][a href="https://alohomorax0.proboards.com/post/87796/thread" style="font-family: 'Share Tech Mono', monospace;font-size:14px;color:#000;"]APPLICATION[/a][/div]
-[div][attr="class","plot_app_box"][a href="https://alohomorax0.proboards.com/post/89053" style="font-family: 'Share Tech Mono', monospace;font-size:14px;color:#000;]THREADS[/a][/div]
-[div][attr="class","plot_image_one"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/plot_tracker.jpg" style="max-width:100%;" alt=" "][/div]
-[div][attr="class","plot_image_two"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/plot_tracker_gif2.webp" style="max-width:100%;" alt=""][/div]
+[div][attr="class","plot_app_box"][a href="https://alohomorax0.proboards.com/post/87796/thread"][font face="Share Tech Mono"]APPLICATION[/font][/a][/div]
+[div][attr="class","plot_app_box"][span style="color:#000;"][a href="https://alohomorax0.proboards.com/post/89053"][font face="Share Tech Mono"]THREADS[/font][/a][/span][/div]
+[div][attr="class","plot_image_one"][img alt=" " src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/rhys_plot_tracker.jpg" style="max-width:100%;"][/div]
+[div][attr="class","plot_image_two"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/rhys_plot_tracker_gif2.webp" style="max-width:100%;" alt=""][/div]
 [/div]
 [/div]
 [/div]
-[newclass=".plotter_file"]width:600px;margin:auto;background-color:#91A8A4;color:#000;[/newclass]
+
+[hr][newclass=".plotter_file"]width:600px;margin:auto;background-color:#507B9C;color:#000;[/newclass]
 [newclass=".single_file"]background-color:#F1F1F1;min-width:100%;min-height:500px;box-shadow: 0 0.2em 0.3em rgba(0,0,0,.3);[/newclass]
 [newclass=".plot_header_section"]background-color:#000;color:#FFF;padding:0px;vertical-align:top;[/newclass]
 [newclass=".plot_header_caption"]font-size:12px;font-weight:bold;font-family: 'Share Tech Mono', monospace;text-align:right;padding-top:10px;padding-right:10px;[/newclass]
@@ -61,5 +67,5 @@ Rhys isn't known for for being incredibly emotional and generally remains very g
 [newclass=".plot_image_two img"]float:right;clear:right;border:1px solid #000;margin-right:10px;margin-bottom:5px;[/newclass]
 [newclass=".info_container_table_parent"]float:left;margin-left:10px;max-width:60%;[/newclass]
 [newclass=".info_title"]font-family: 'Share Tech Mono';font-weight:bold;font-size:12px;[/newclass]
-[newclass=".info_content"]font-family: 'Montserrat', sans-serif;font-weight:normal;width:33%;font-size:10px;[/newclass]
+[newclass=".info_content"]font-family: 'Montserrat', sans-serif;font-weight:normal;font-size:10px;width:100%;[/newclass]
 [newclass=".info_content_overflow"]overflow:auto;font-family: 'Montserrat', sans-serif;max-height:195px;font-weight:normal;font-size:10px;[/newclass]
