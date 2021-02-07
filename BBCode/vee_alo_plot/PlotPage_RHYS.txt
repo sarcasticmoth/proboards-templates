@@ -4,14 +4,11 @@
 [div][attr="class","single_file"][div][attr="class","plot_header_section"][div][attr="class","plot_header_caption"]VEE'S PAWN[/div]
 [div][attr="class","plot_header_title"]GREYBACK, RHYS ALEXANDER[/div]
 [/div][div][attr="class","info_container"][div][attr="class","info_container_table_parent"]
-[table][tbody][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]FIRST NAME[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]LAST NAME[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]ALIAS[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Rhys[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Greyback[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Rhys[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]D.O.B.[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Sexuality[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Gender[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]25 Aug 2000[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Straight[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Male[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Status[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Education[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Affiliation[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Uncomitted[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Hogwarts, Slytherin '18[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Heliopath[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"]Family[/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]@tag - [relationship]
+[table][tbody][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]FIRST NAME[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]LAST NAME[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Tag[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Rhys[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Greyback[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]@vanessa[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Age[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Blood Status[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Wand[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]twenty-five[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Half-Blood
+Werewolf[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]10in, Blackthorn, Dragon Heartstring[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]D.O.B.[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Sexuality[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Gender[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]25 Aug 2000[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Straight[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Male[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Relationship[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Education[/td][td style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Affiliation[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Uncomitted[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Hogwarts
+Slytherin '18[/td][td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]Heliopath[/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Family[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]@tag - [relationship]
 @tag - [relationship]
-@tag - [relationship]
-[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"]Known Affiliations[/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:0 1px 1px 1px;"][div][attr="class","info_content_overflow"]@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
-@tag - [relationship]
+@tag - [relationship][/div][/td][/tr][tr][td colspan="3" style="border:1px solid #000;border-width:1px 1px 0 1px;"][attr="class","info_title"]Known Affiliations[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]@tag - [relationship]
 @tag - [relationship]
 @tag - [relationship]
 @tag - [relationship]
@@ -28,8 +25,10 @@
 @tag - [relationship]
 @tag - [relationship]
 @tag - [relationship]
-[/div]
-[/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"]Notes[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]Rhys is your average introvert, he grew up without many people close to him until he got to Hogwarts. There are only a handful that are close to him and he takes trust very seriously and his loyalties tend to lie with people versus as a general rule. He's a werewolf and the oldest of the Greyback pack and is protective of them. 
+@tag - [relationship]
+@tag - [relationship]
+@tag - [relationship]
+@tag - [relationship][/div][/td][/tr][tr][td style="border:1px solid #000;border-width:1px 1px 0 1px;" colspan="3"][attr="class","info_title"]Notes[/td][/tr][tr][td style="border:1px solid #000;border-width:0 1px 1px 1px;" colspan="3"][div][attr="class","info_content_overflow"]Rhys is your average introvert, he grew up without many people close to him until he got to Hogwarts. There are only a handful that are close to him and he takes trust very seriously and his loyalties tend to lie with people versus as a general rule. He's a werewolf and the oldest of the Greyback pack and is protective of them. 
 
 FRIENDS:
 Most of Rhys' close friends are from his early school days or through his work as a Curse Breaker. In his mind he can be more himself with them without fear of judgement of innocuous thing such as his namesake. Plus those that he is close to through he works he has an immense amount of trust with since the work can be dangerous and they are expected to have each other's backs. 
@@ -38,12 +37,12 @@ ENEMIES:
 There are still those who are prejudiced against werewolves and the Greybacks and they do not like him and then those who he does like as well. Whether it be personal insults or personality clashes, this list will never be empty. 
 
 LOVERS:
-Rhys isn't known for for being incredibly emotional and generally remains very guarded about himself. If his abandonment issues don't get in his way his rejection issues certainly do and he tends to have flings and one night stands rather than committed relationships.
+Rhys isn't known for for being incredibly emotional and generally remains very guarded about himself. If his abandonment issues don't get in his way his rejection issues certainly do and he tends to have flings and one night stands rather than committed relationships.[/div][/td][/tr][/tbody][/table]
 [/div]
-[/td][/tr][/tbody][/table]
-[/div]
-[div][attr="class","plot_image_one"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/plot_tracker.jpg" alt=" " style="max-width:100%;"][/div]
-[div][attr="class","plot_image_two"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/plot_tracker_gif2.webp" alt="" style="max-width:100%;"][/div]
+[div][attr="class","plot_app_box"]APPLICATION[/div]
+[div][attr="class","plot_app_box"]THREADS[/div]
+[div][attr="class","plot_image_one"][img alt=" " src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/plot_tracker.jpg" style="max-width:100%;"][/div]
+[div][attr="class","plot_image_two"][img src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/rhys/plot_tracker_gif2.webp" style="max-width:100%;" alt=""][/div]
 [/div]
 [/div]
 [/div]
@@ -55,9 +54,10 @@ Rhys isn't known for for being incredibly emotional and generally remains very g
 [newclass=".plot_header_caption"]font-size:12px;font-weight:bold;font-family: 'Share Tech Mono', monospace;text-align:right;padding-top:10px;padding-right:10px;[/newclass]
 [newclass=".plot_header_title]font-size:25px;letter-spacing:5px;font-family: 'Share Tech Mono', monospace;text-align:center;[/newclass]
 [newclass=".info_container]margin:auto;padding:5px;overflow:hidden;[/newclass]
-[newclass=".plot_image_one img"]float:right;border:1px solid #000;[/newclass]
-[newclass=".plot_image_two img"]float:right;clear:right;margin-top:5px;border:1px solid #000;[/newclass]
+[newclass=".plot_app_box"]float:right;border:1px solid #000;margin-right:10px;width:200px;text-align:center;font-family: 'Share Tech Mono', monospace;font-size:14px;padding-top:5px;padding-bottom:5px;margin-bottom:5px;[/newclass]
+[newclass=".plot_image_one img"]float:right;clear:right;border:1px solid #000;margin-right:10px;margin-bottom:5px;[/newclass]
+[newclass=".plot_image_two img"]float:right;clear:right;border:1px solid #000;margin-right:10px;margin-bottom:5px;[/newclass]
 [newclass=".info_container_table_parent"]float:left;margin-left:10px;max-width:60%;[/newclass]
-[newclass=".info_title"]font-family: 'Share Tech Mono';font-weight:bold;[/newclass]
-[newclass=".info_content"]font-family: 'Montserrat', sans-serif;font-weight:normal;[/newclass]
-[newclass=".info_content_overflow"]overflow:auto;font-family: 'Montserrat', sans-serif;max-height:175px;font-weight:normal;[/newclass]
+[newclass=".info_title"]font-family: 'Share Tech Mono';font-weight:bold;font-size:12px;[/newclass]
+[newclass=".info_content"]font-family: 'Montserrat', sans-serif;font-weight:normal;width:33%;font-size:10px;[/newclass]
+[newclass=".info_content_overflow"]overflow:auto;font-family: 'Montserrat', sans-serif;max-height:195px;font-weight:normal;font-size:10px;[/newclass]
