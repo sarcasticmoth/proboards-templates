@@ -1,9 +1,0 @@
-
-
-[newclass=".info_content"]font-family: 'Montserrat', sans-serif;font-weight:normal;font-size:10px;width:100%;[/newclass]
-[newclass=".info_content_overflow"]overflow:auto;font-family: 'Montserrat', sans-serif;max-height:195px;font-weight:normal;font-size:10px;[/newclass]
-[newclass="hr"]overflow:visible;padding:0;border:none;border-top:medium double #333;color#333;text-align:center;[/newclass]
-[newclass="hr:after"]content: "§";display:inline-block;position:relative;top:-0.7em;font-size1.5em;padding:- 0.25em;background:transparent;[/newclass]
-
-[td style="border:1px solid #000;border-width:0 1px 1px 1px;"][attr="class","info_content"]
-[td style="border:1px solid #000;border-width:0 1px 1px 1px;font-weight:normal;font-size:10px;width:100%;"][font="Montserrat"]

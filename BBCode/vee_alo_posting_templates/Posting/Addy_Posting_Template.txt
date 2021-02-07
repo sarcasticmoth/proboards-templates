@@ -1,8 +1,15 @@
-[div style="width:600px;margin:auto;min-height:208px;"][div style="float:right;margin-bottom:128px;margin-left:-10px;width:392px;height:45px;font-size:10px;font-family:calibri;color:#585858;text-transform:uppercase;letter-spacing:1px;text-align:center;line-height:45px;"]template by [a style="font-size:inherit;font-family:inherit;color:#4C4C47;" href="http://adoxographyv2.boards.net/user/8639"]punki[/a] of [a href="http://adoxographyv2.boards.net/" style="font-size:inherit;font-family:inherit;color:#4C4C47;"]adoxography[/a][/div][div style="float:left;margin-right:10px;width:160px;height:160px;border:4px solid #F4AC45;background:url(https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/addy/posts/post_max.png);padding:20px;"][div style="height:118px;border:1px solid #ffffff;padding:20px;"][div style="height:118px;width:397px;background:#2D2D2A;margin-left:153px;"][div style="padding:45px 0;line-height:14px;font-size:13px;font-family:times new roman;text-transform:lowercase;letter-spacing:2px;color:#ffffff;text-align:center;"][div style="float:left;width:10px;height:118px;margin-top:-49px;border:4px solid #F4AC45;border-right:none;margin-left:-4px;margin-right:-60px;"][/div][div style="text-indent:-50px;height:12px;"]lyric #1[/div][div style="text-indent:50px;height:12px;"]lyric #2[/div][/div][/div][/div][/div]
-[div style="font-family:verdana;color:#000000;font-size:10px;line-height:15px;text-align:justify;"]
-[div align="center"]January 1, XXXX
-@tag[/div]
+[googlefont="Playfair Display"]
+[div style="width:400px;margin:auto;background-color:#593F62;color:#000;"]
+[div style="background-color:#FFF;min-width:100%;min-height:300px;"][div style="background-color:#000;color:#F1F1F1;padding:0px;vertical-align:top;min-height:75px;padding-left:3px;"][img style="width:150px;height:150px;float:left;border-radius:50%;border:1px solid #000;margin-left:px;" src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/addy/posts/post_max.png" alt=" "]
+[div style="float:right;padding-right:30px;padding-top:5px;font:8px calibri;text-transform:uppercase;letter-spacing:2px;text-align:center;"]
+[div]lyric #1[/div][div]lyric #2[/div]
+[/div]
+[/div]
+[div style="padding:5px;font-size:9px;text-align:center;"]
+December XX, 2025
+@tag[/div][div style="font-size:10px;padding-left:40px;padding-right:40px;padding-bottom:30px;text-align:justify;"]
+asdf
+[/div]
+[/div]
+[/div]
 
-F4AC45
-
-[/div][/div]
