@@ -1,15 +1,13 @@
-[googlefont="Playfair Display"]
 [div style="width:400px;margin:auto;background-color:#593F62;color:#000;"]
-[div style="background-color:#FFF;min-width:100%;min-height:300px;"][div style="background-color:#000;color:#F1F1F1;padding:0px;vertical-align:top;min-height:75px;padding-left:3px;"][img style="width:150px;height:150px;float:left;border-radius:50%;border:1px solid #000;margin-left:px;" src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/addy/posts/post_max.png" alt=" "]
+[div style="background-color:#FFF;min-width:100%;min-height:300px;"][div style="background-color:#000;color:#F1F1F1;padding:0px;vertical-align:top;min-height:75px;padding-left:3px;"][img alt=" " src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/addy/posts/post_abc.gif" style="width:150px;height:150px;float:left;border-radius:50%;border:1px solid #000;margin-left:px;"]
 [div style="float:right;padding-right:30px;padding-top:5px;font:8px calibri;text-transform:uppercase;letter-spacing:2px;text-align:center;"]
 [div]lyric #1[/div][div]lyric #2[/div]
 [/div]
 [/div]
-[div style="padding:5px;font-size:9px;text-align:center;"]
-December XX, 2025
-@tag[/div][div style="font-size:10px;padding-left:40px;padding-right:40px;padding-bottom:30px;text-align:justify;"]
-asdf
+[div style="padding:5px;font-size:9px;text-align:center;"][font face="Roboto"]December XX, 2025
+@tag[/font][/div][div style="font-size:10px;padding-left:40px;padding-right:40px;padding-bottom:30px;text-align:justify;"][font face="Roboto"]
+asdfasdf
+[/font][/div]
 [/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#F1F1F1;padding-top:5px;padding-bottom:5px;width:400px;"][font face="Roboto"]template credit to vee[/font][/div]
 [/div]
-[/div]
-
