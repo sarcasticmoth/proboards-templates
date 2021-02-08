@@ -5,11 +5,10 @@
 [div]lyric #1[/div][div]lyric #2[/div]
 [/div]
 [/div]
-[div style="padding:5px;font-size:9px;text-align:center;"]
-December XX, 2025
-@tag[/div]
-asdf
+[div style="padding:5px;font-size:9px;text-align:center;"][font face="Roboto"]December XX, 2025
+@tag[/font][/div][div style="font-size:10px;padding-left:40px;padding-right:40px;padding-bottom:30px;text-align:justify;"][font face="Roboto"]
+asdfasdf
+[/font][/div]
 [/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#F1F1F1;padding-top:5px;padding-bottom:5px;width:400px;"][font face="Roboto"]template credit to vee[/font][/div]
 [/div]
-[/div]
-
