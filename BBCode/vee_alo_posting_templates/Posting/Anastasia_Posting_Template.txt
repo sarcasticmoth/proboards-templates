@@ -9,5 +9,4 @@
 asdfasdf
 [/font][/div]
 [/div]
-[/div]
 [/div][div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-top:5px;padding-bottom:5px;width:400px;"][font face="Roboto"]template by vee[/font][/div]
