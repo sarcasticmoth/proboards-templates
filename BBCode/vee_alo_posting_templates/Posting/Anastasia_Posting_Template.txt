@@ -1,4 +1,3 @@
-[googlefont="Playfair Display"]
 [div style="width:400px;margin:auto;background-color:#7B2D26;color:#000;"]
 [div style="background-color:#FFF;min-width:100%;min-height:300px;"][div style="background-color:#000;color:#F1F1F1;padding:0px;vertical-align:top;min-height:75px;padding-left:2px;"][img style="width:150px;height:150px;float:left;border-radius:50%;border:1px solid #000;" alt=" " src="https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/main/pics/anastasia/post/post_gif_teddy.gif"]
 [div style="float:right;padding-right:30px;padding-top:5px;font:8px calibri;text-transform:uppercase;letter-spacing:2px;text-align:center;"]
@@ -10,5 +9,5 @@
 asdfasdf
 [/font][/div]
 [/div]
-[div style="margin:auto;text-align:center;font-size:10px;color:#F1F1F1;padding-top:5px;padding-bottom:5px;width:400px;"][font face="Roboto"]template credit to vee[/font][/div]
 [/div]
+[/div][div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-top:5px;padding-bottom:5px;width:400px;"][font face="Roboto"]template by vee[/font][/div]
