@@ -6,6 +6,63 @@
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 }
 
+/*Title*/
+.portable-infobox.pi-theme-wizardingadult .pi-title {
+	background-color:#0000cc;
+}
+
+/*Header*/
+.portable-infobox.pi-theme-wizardingadult .pi-header {
+	
+}
+
+/*Data Value*/
+.portable-infobox.pi-theme-wizardingadult .pi-data-value {
+	
+}
+
+/*Data Label*/
+.portable-infobox.pi-theme-wizardingadult .pi-data-label {
+	
+}
+
+/*Image*/
+.portable-infobox.pi-theme-wizardingadult .pi-image {
+	border:1px dashed #000;
+}
+
+/*overall infobox background*/
+.portable-infobox.pi-theme-wizardingadult .pi-background {
+	background-color:#00cc00;
+	color:#006600;
+}
+
+/*Header and Navigation backgrounds*/
+.portable-infobox.pi-theme-wizardingadult .pi-secondary-background {
+	background-color:#cc0000;
+	color:#660000;
+}
+
+/*data value font styling*/
+.portable-infobox.pi-theme-wizardingadult .pi-font {
+	text-transform:uppercase;
+}
+
+/*header, label and navigation font styles*/
+.portable-infobox.pi-theme-wizardingadult .pi-secondary-font {
+	
+}
+
+/*paddings around each infobox element*/
+.portable-infobox.pi-theme-wizardingadult .pi-item-spacing {
+	
+}
+
+/*infobox element border colors*/
+.portable-infobox.pi-theme-wizardingadult .pi-border-color {
+	
+}
+
 /*Druid*/
 
 /*Ministry*/
@@ -27,6 +84,3 @@
 
 
 /*Beauxbatons*/
-
-
-
