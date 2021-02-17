@@ -1,8 +1,0 @@
-[div style="width:600px;margin:auto;min-height:208px;"][div style="float:right;margin-bottom:128px;margin-left:-10px;width:392px;height:45px;font-size:10px;font-family:calibri;color:#585858;text-transform:uppercase;letter-spacing:1px;text-align:center;line-height:45px;"]template by [a style="font-size:inherit;font-family:inherit;color:#4C4C47;" href="http://adoxographyv2.boards.net/user/8639"]punki[/a] of [a style="font-size:inherit;font-family:inherit;color:#4C4C47;" href="http://adoxographyv2.boards.net/"]adoxography[/a][/div][div style="float:left;margin-right:10px;width:160px;height:160px;border:4px solid #D64933;background:url(https://raw.githubusercontent.com/sarcasticmoth/proboards-templates/jsp/pics/james/posts/post.gif);padding:20px;"][div style="height:118px;border:1px solid #ffffff;padding:20px;"][div style="height:118px;width:397px;background:#2D2D2A;margin-left:153px;"][div style="padding:45px 0;line-height:14px;font-size:13px;font-family:times new roman;text-transform:lowercase;letter-spacing:2px;color:#ffffff;text-align:center;"][div style="float:left;width:10px;height:118px;margin-top:-49px;border:4px solid #D64933;border-right:none;margin-left:-4px;margin-right:-60px;"][/div][div style="text-indent:-50px;height:12px;"]lyric #1[/div][div style="text-indent:50px;height:12px;"]lyric #2[/div][/div][/div][/div][/div]
-[div style="font-family:verdana;color:#000000;font-size:10px;line-height:15px;text-align:justify;"]
-[div align="center"]January 1, XXXX
-@tag[/div]
-
-D64933
-
-[/div][/div]
