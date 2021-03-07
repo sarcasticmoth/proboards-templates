@@ -1,32 +1,9 @@
-.WikiaArticle .infobox {
-	border: 0px !important;
-}
-
-.infobox table.infoboxtable {
-	width: 100% !important;
-	table-layout: auto;
-}
-
-.infobox table.infoboxtable .infoboxlabel {width:15%}
-
 /* INFO BOXES */
 .portable-infobox {
-	width: 250px;
-	background: none !important;
+	width: 275px;
 	border: 1px #000000 solid;
+	background-color: transparent;
 }
-
-/* Adjusts reference size */
-.portable-infobox .reference, .refadjust .reference {
-	font-size: 7.5px;
-	line-height: 1.5;
-}
-
-/* Eliminate border between rows */
-.portable-infobox .pi-border-color { border-bottom-style: none !important; }
- 
-/* Standardized padding for infobox elements */
-.portable-infobox .pi-item-spacing { padding: 4px; }
 
 /* Field labels */
 .portable-infobox .pi-data-label {
@@ -37,14 +14,20 @@
 .pi-image img {
      max-width:100%;
      height:auto;
-     background:#F0F0F0;
+     background-color: transparent;
 }
 
 /* Wizarding Adult - purple */
 .pi-theme-wizardingadult .pi-image,
 .pi-theme-wizardingadult .pi-title,
-.pi-theme-wizardingadult .pi-navigation { background-color: #610086; }
-.pi-theme-wizardingadult .pi-header { background-color: #610086; }
+.pi-theme-wizardingadult .pi-navigation { 
+	background-color: #610086;
+	color:#F9F9F9;
+	text-align:center;
+	text-transform:uppercase;
+	font-size:16px;
+}
+.pi-theme-wizardingadult .pi-header { color: #610086; }
 .pi-theme-wizardingadult .pi-key-val { background-color: #F9F9F9; }
 
 /* === PLACES === */
