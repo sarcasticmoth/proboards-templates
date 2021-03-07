@@ -4,11 +4,17 @@
 /*Wizarding Adult*/
 .portable-infobox.pi-theme-wizardingadult {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	border:1px solid #610086;
+	background-color:#e3e8d9;
 }
 
 /*Title*/
 .portable-infobox.pi-theme-wizardingadult .pi-title {
-	background-color:#0000cc;
+	background-color:#A100E0;
+	color:#FCFCFC;
+	text-align:center;
+	letter-spacing:2px;
+	text-transform:uppercase;
 }
 
 /*Header*/
@@ -23,29 +29,33 @@
 
 /*Data Label*/
 .portable-infobox.pi-theme-wizardingadult .pi-data-label {
-	
+	letter-spacing:1px;
+	font-weight:bold;
+	text-transform:uppercase;
 }
 
 /*Image*/
 .portable-infobox.pi-theme-wizardingadult .pi-image {
-	border:1px dashed #000;
+	background-color:#e3e8d9;
 }
 
 /*overall infobox background*/
 .portable-infobox.pi-theme-wizardingadult .pi-background {
-	background-color:#00cc00;
-	color:#006600;
+	background-color:#e3e8d9;
 }
 
 /*Header and Navigation backgrounds*/
 .portable-infobox.pi-theme-wizardingadult .pi-secondary-background {
-	background-color:#cc0000;
-	color:#660000;
+	background-color:#e3e8d9;
+	color:#8400B8;
+	text-align:center;
+	letter-spacing:2px;
+	text-transform:uppercase;
 }
 
 /*data value font styling*/
 .portable-infobox.pi-theme-wizardingadult .pi-font {
-	text-transform:uppercase;
+	
 }
 
 /*header, label and navigation font styles*/
@@ -84,3 +94,176 @@
 
 
 /*Beauxbatons*/
+
+
+/* OTHER */
+
+/* Special:Chat rail module CSS (used by DiscordChat for some styling) */
+/* Source is https://github.com/Wikia/app/blob/dev/extensions/wikia/Chat2/css/ChatWidget.scss */
+/* Edited from complied CSS to remove unneeded parts, work on UCP, work on different themes, etc */
+.chat-join button .icon {
+    display: inline-block;
+    height: 17px;
+    margin-right: 5px;
+    vertical-align: middle;
+    width: 17px
+}
+
+.chat-join button .icon svg {
+    fill: #fff
+}
+
+.WikiaRail .chat-module .chat-contents,
+.chat-module.ChatWidget .chat-contents {
+    position: relative
+}
+
+.WikiaRail .chat-module .chat-details,
+.chat-module.ChatWidget .chat-details {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex
+}
+
+.WikiaRail .chat-module .chat-details .avatars,
+.chat-module.ChatWidget .chat-details .avatars {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack {
+    margin: 0;
+    max-width: 120px
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack a,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack a {
+    height: 32px
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar {
+    height: 32px;
+    min-width: 32px;
+    width: 32px
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar a,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar a {
+    color: var(--themed-border-color, #6c6b6b);
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar a:hover,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar a:hover {
+    color: var(--themed-border-color, #6c6b6b);
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar .wds-avatar__image,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar .wds-avatar__image {
+    background-color: #fff;
+    color: var(--themed-border-color, #6c6b6b);
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar .wds-avatar__image:hover,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar .wds-avatar__image:hover {
+    color: var(--themed-border-color, #6c6b6b);
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar img.wds-avatar__image,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar img.wds-avatar__image {
+    border: solid 2px var(--themed-border-color, #6c6b6b);
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar img.wds-avatar__image:hover,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar img.wds-avatar__image:hover {
+    border-color: var(--themed-border-color, #6c6b6b);
+}
+
+.WikiaRail .chat-module .chat-details .avatars .wds-avatar-stack .wds-avatar .wds-avatar__badge,
+.chat-module.ChatWidget .chat-details .avatars .wds-avatar-stack .wds-avatar .wds-avatar__badge {
+    height: 16.1248px;
+    min-width: 16.1248px;
+    width: 16.1248px;
+    left: -4.60709px;
+    top: -6.44992px
+}
+
+.WikiaRail .chat-module .chat-details .avatars .more-users-count,
+.chat-module.ChatWidget .chat-details .avatars .more-users-count {
+    font-weight: bold;
+    margin-left: 6px
+}
+
+.WikiaRail .chat-module .chat-details .avatars .more-users-count:hover,
+.chat-module.ChatWidget .chat-details .avatars .more-users-count:hover {
+    color: var(--themed-link-color, #006CB0);
+    opacity: 0.75;
+    text-decoration: none
+}
+
+.WikiaRail .chat-module .more,
+.chat-module.ChatWidget .more {
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 16px
+}
+
+.WikiaRail .chat-module .chat-join,
+.chat-module.ChatWidget .chat-join {
+    position: absolute;
+    top: 0;
+    right: 0
+}
+
+.ChatWidget {
+    zoom: 1;
+    margin: 0 auto 30px;
+    position: relative;
+    width: 300px;
+    word-wrap: break-word
+}
+
+.ChatWidget:after {
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden
+}
+
+.main-page-tag-lcs .ChatWidget,
+.main-page-tag-rcs .ChatWidget {
+    display: block;
+    width: auto
+}
+
+.ChatWidget h2.chat-headline {
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 2px
+}
+
+.ChatWidget .more {
+    line-height: 16px
+}
+
+.ChatWidget .more-users-count {
+    font-size: 12px
+}
