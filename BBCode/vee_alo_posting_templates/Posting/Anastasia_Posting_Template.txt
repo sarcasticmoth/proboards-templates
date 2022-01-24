@@ -6,7 +6,7 @@
 [/div]
 [div style="padding:5px;font-size:9px;text-align:center;"][font face="Roboto"]December XX, 2025
 @tag[/font][/div][div style="font-size:10px;padding-left:40px;padding-right:40px;padding-bottom:30px;text-align:justify;"][font face="Roboto"]
-asdfasdf
+#7B2D26
 [/font][/div]
 [/div]
 [/div][div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-top:5px;padding-bottom:5px;width:400px;"][font face="Roboto"]template by vee[/font][/div]
