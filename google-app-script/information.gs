@@ -13,21 +13,21 @@ Information.prototype.populateInformationSheet = () => {
   SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 1, 100, 100).clearContent();
   SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 1, 100, 100).clearFormat();
 
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 1).clear();
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 1).setValue("Sheet Name");
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 2).clear();
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 2).setValue("Sheet ID");
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 1).clear();
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 1).setValue("Sheet Name");
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 2).clear();
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(1, 2).setValue("Sheet ID");
 
-  // var sheetNames = SPREADSHEET.getSheets().map(n => [n.getName()]);
-  // var sheetIDs = SPREADSHEET.getSheets().map(i => [i.getSheetId()]);
+  var sheetNames = SPREADSHEET.getSheets().map(n => [n.getName()]);
+  var sheetIDs = SPREADSHEET.getSheets().map(i => [i.getSheetId()]);
 
-  // Logger.log(JSON.stringify(sheetNames));
-  // Logger.log(JSON.stringify(sheetIDs));
+  Logger.log(JSON.stringify(sheetNames));
+  Logger.log(JSON.stringify(sheetIDs));
 
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 1).clearContent();
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 1, sheetNames.length).setValues(sheetNames);
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 2).clearContent();
-  // SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 2, sheetNames.length).setValues(sheetIDs);
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 1).clearContent();
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 1, sheetNames.length).setValues(sheetNames);
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 2).clearContent();
+  SPREADSHEET.getSheetByName(SHEET_INFORMATION).getRange(2, 2, sheetNames.length).setValues(sheetIDs);
 
   // add headers for character information
   var lastRow = (SPREADSHEET.getSheetByName(SHEET_INFORMATION).getLastRow() + 2);
