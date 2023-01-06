@@ -3,7 +3,9 @@
  */
 function Scrawl() { };
 
-function LoadSummary() {
+let scrawl = new Scrawl();
+
+Scrawl.prototype.loadSummary = () => {
   // Create Information Sheet if not created
   var sheet = SPREADSHEET.getSheetByName(SHEET_INFORMATION);
 
@@ -19,36 +21,44 @@ function LoadSummary() {
   // information.formatInformationSheet();
 }
 
-function createMenu() {
-  Logger.log("Start createMenu()");
+// function createMenu() {
+//   Logger.log("Start createMenu()");
 
-  var ui = SpreadsheetApp.getUi();
+//   var ui = SpreadsheetApp.getUi();
+//   ui.createMenu("Scripts")
+//   .addItem("Update Summary", scrawl.loadSummary())
+//   .addSeparator()
+//   .addItem("Create Thread Tracker Posts", scrawl.createCharacterThreadTrackerPosts())
+//   .addToUi();
 
-  ui.createMenu("Scripts")
-  .addItem("Update Summary", LoadSummary)
-  .addSeparator()
-  .addItem("Create Thread Tracker Posts", CreateCharacterThreadTrackerPosts)
-  .addToUi();
+//   Logger.log("Start createMenu()");
+// }
 
-  Logger.log("Start createMenu()");
+function CreateTrackers(){
+  Logger.log('begin')
+
+  scrawl.createCharacterThreadTrackerPosts()
+
+  Logger.log('end')
 }
 
-function CreateCharacterThreadTrackerPosts() {
+function LoadInformation() {
+  scrawl.loadSummary()
+}
 
+Scrawl.prototype.createCharacterThreadTrackerPosts = () => {
   for(var i = 0; i < ACTIVE_CHARS.length; i = i + 1) {
     Logger.log(`... ${ACTIVE_CHARS[i][1]} ...`)
     var character = ACTIVE_CHARS[i];
-    var content = generateThreadTrackerPost(character);
-    createFile(character[0], content);
+    var content = scrawl.generateThreadTrackerPost(character);
+    scrawl.createFile(character[0], content);
   }
 }
 
-function generateThreadTrackerPost(character) {
+Scrawl.prototype.generateThreadTrackerPost = (character) => {
   Logger.log("Start generateSampleThreadTracker()");
 
   information.populatePlayerList();
-
-  // var character = ACTIVE_CHARS[4];
 
   var s_lastRow = (SPREADSHEET.getSheetByName(SHEET_SUMMARY).getLastRow() - 1);
   var s_lastCol = SPREADSHEET.getSheetByName(SHEET_SUMMARY).getLastColumn();
@@ -78,7 +88,7 @@ function generateThreadTrackerPost(character) {
   return result;
 }
 
-function createFile(char, content) {
+Scrawl.prototype.createFile = (char, content) => {
   var fileName = `ThreadPage_${char}.txt`
   var folder1 = 'ALO'
   var folder2 = 'trackers'

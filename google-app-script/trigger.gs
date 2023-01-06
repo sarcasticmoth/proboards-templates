@@ -3,14 +3,12 @@ let information = new Information();
 /**
  * Trigger Methods
  */
-function Trigger() {};
+// function onOpen() {
+//   Logger.log("Start onOpen()");
 
-function onOpen() {
-  Logger.log("Start onOpen()");
+//   createMenu();
+//   // LoadSummary();
+//   // CreateCharacterThreadTrackerPosts();
 
-  createMenu();
-  // LoadSummary();
-  // CreateCharacterThreadTrackerPosts();
-
-  Logger.log("End onOpen()");
-}
+//   Logger.log("End onOpen()");
+// }

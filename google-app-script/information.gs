@@ -157,7 +157,7 @@ Information.prototype.getUsernameFromName = (name) => {
   var p = PLAYER_LIST.filter(c => c[0] == name)[0];
 
   if(p == undefined) {
-    var username = `${name}`;
+    var username = `@${name}`.toLowerCase();
   } else {
     var username = p[2];
   }
@@ -247,7 +247,7 @@ Information.prototype.formatInformationSheet = () => {
  */
 Information.prototype.buildPostURL = (id) => {
   // https://alohomorax0.proboards.com/thread/11330
-  return `${BASE_URL}/post/thread/${id}`;
+  return `${BASE_URL}/thread/${id}`;
 }
 
 
