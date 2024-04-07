@@ -1,95 +1,142 @@
 /**
- * Scrawl Methods
+ * MENU
  */
-function Scrawl() { };
 
-let scrawl = new Scrawl();
+function createMenu() {
+  var ui = SpreadsheetApp.getUi();
+  ui.createMenu("Scripts")
+  .addItem("Update Summary", 'LoadSummary')
+  .addSeparator()
+  .addItem("Create Thread Tracker Posts", 'CreateCharacterThreadTrackerPosts')
+  .addItem("Create Rhys-Juniper Post List", 'CreateRhysJuniTracker')
+  .addToUi();
+}
 
-Scrawl.prototype.loadSummary = () => {
+function onOpen() {
+  createMenu();
+}
+
+function LoadSummary() {
   // Create Information Sheet if not created
-  var sheet = SPREADSHEET.getSheetByName(SHEET_INFORMATION);
+  var sheet = SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_INFORMATION);
 
   // create sheet if it does not exist
   Logger.log("Checking if Information Sheet Exists.");
   if(!sheet) {
     Logger.log("Creating Information Sheet.");
-    SPREADSHEET.insertSheet(SHEET_INFORMATION);
+    SpreadsheetApp.openById(SHEET_ID).insertSheet(SHEET_INFORMATION);
   }
 
   Logger.log("Initial Population");
-  information.populateInformationSheet();
-  // information.formatInformationSheet();
+  PopulateInformationSheet();
 }
 
-// function createMenu() {
-//   Logger.log("Start createMenu()");
-
-//   var ui = SpreadsheetApp.getUi();
-//   ui.createMenu("Scripts")
-//   .addItem("Update Summary", scrawl.loadSummary())
-//   .addSeparator()
-//   .addItem("Create Thread Tracker Posts", scrawl.createCharacterThreadTrackerPosts())
-//   .addToUi();
-
-//   Logger.log("Start createMenu()");
-// }
-
-function CreateTrackers(){
-  Logger.log('begin')
-
-  scrawl.createCharacterThreadTrackerPosts()
-
-  Logger.log('end')
+function CreateRhysJuniTracker() {
+  Logger.log(`... ${ACTIVE_CHARS[0][1]} ...`)
+  var character = ACTIVE_CHARS[0];
+  var content = scrawl.generateThreadTrackerPost2(character, "Juniper", "ThreadTrackerSPECIFIC");
+  scrawl.createFile(character[0], content, "ThreadList", 0);
 }
 
-function LoadInformation() {
-  scrawl.loadSummary()
-}
-
-Scrawl.prototype.createCharacterThreadTrackerPosts = () => {
+function CreateCharacterThreadTrackerPosts() {
   for(var i = 0; i < ACTIVE_CHARS.length; i = i + 1) {
     Logger.log(`... ${ACTIVE_CHARS[i][1]} ...`)
     var character = ACTIVE_CHARS[i];
-    var content = scrawl.generateThreadTrackerPost(character);
-    scrawl.createFile(character[0], content);
-  }
+    var content = scrawl.generateThreadTrackerPost(character, "ThreadTrackerBLANK3");
+    scrawl.createFile(character[0], content, 'ThreadPage', i+1);
+  } 
 }
 
-Scrawl.prototype.generateThreadTrackerPost = (character) => {
-  Logger.log("Start generateSampleThreadTracker()");
+function GenerateThreadTrackerPost2(character,who, template) {
+  Logger.log("Start generateThreadTrackerPost2()");
 
-  information.populatePlayerList();
+  populatePlayerList();
 
-  var s_lastRow = (SPREADSHEET.getSheetByName(SHEET_SUMMARY).getLastRow() - 1);
-  var s_lastCol = SPREADSHEET.getSheetByName(SHEET_SUMMARY).getLastColumn();
-  var threads = SPREADSHEET.getSheetByName(SHEET_SUMMARY).getRange(2, 1, s_lastRow, s_lastCol).getValues().filter(row => row[2] == character[0]);
+  var s_lastRow = (SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_SUMMARY).getLastRow() - 1);
+  var s_lastCol = SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_SUMMARY).getLastColumn();
+  var threads = SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_SUMMARY).getRange(2, 1, s_lastRow, s_lastCol).getValues().filter(row => (row[2] == character[0] && row[3] == who) || (row[10] == "RHYS/JUNIPER"));
   threads.forEach(function (t) {
     t[10] = Utilities.formatDate(t[4], 'America/Los_Angeles', 'dd MMMM yyyy');
-    t[14] = information.buildPostURL(t[13]);
-    t[15] = information.getUsernameFromName(t[3]);
+    t[14] = buildPostURL(t[13]);
+    t[15] = getUsernameFromName(t[3]);
+
+    if(t[8] == 1) {
+      t[16] = "COMPLETED";
+    }
+
+    if(t[8] == 0) {
+      t[16] = "OPEN";
+    }
+
+    if(t[11] == "ONE SHOT") {
+      t[16] = "ONE SHOT";
+    }
+  });
+
+  var tracker_header_template = HtmlService.createTemplateFromFile(template);;
+  tracker_header_template.threads = threads.sort(compareDates);
+
+  var result = tracker_header_template.evaluate().getContent();
+
+  Logger.log("End generateThreadTrackerPost2()");
+
+  return result;
+}
+
+function GenerateThreadTrackerPost(character, template) {
+  Logger.log("Start generateSampleThreadTracker()");
+
+  populatePlayerList();
+
+  var s_lastRow = (SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_SUMMARY).getLastRow() - 1);
+  var s_lastCol = SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_SUMMARY).getLastColumn();
+  var threads = SpreadsheetApp.openById(SHEET_ID).getSheetByName(SHEET_SUMMARY).getRange(2, 1, s_lastRow, s_lastCol).getValues().filter(row => row[2] == character[0]);
+  threads.forEach(function (t) {
+    t[10] = Utilities.formatDate(t[4], 'America/Los_Angeles', 'dd MMMM yyyy');
+    t[14] = buildPostURL(t[13]);
+    t[15] = getUsernameFromName(t[3]);
   });
 
   var active_threads = threads.filter(row => row[8] == 0).sort(compareDates);
   var completed_threads = threads.filter(row => row[8] == 1).sort(compareDates);
   var dead_threads = threads.filter(row => row[8] == -1).sort(compareDates);
 
-  var tracker_header_template = HtmlService.createTemplateFromFile("ThreadTrackerBLANK2");
+  var tracker_header_template = HtmlService.createTemplateFromFile(template);
   tracker_header_template.name = character[1];
   tracker_header_template.color = character[2];
   tracker_header_template.active_threads = active_threads;
   tracker_header_template.completed_threads = completed_threads;
   tracker_header_template.dead_threads = dead_threads;
 
+  // Logger.log(HtmlService
+  //     .createTemplateFromFile('ThreadTrackerBLANK3')
+  //     .getCode());
+
+  // Logger.log(active_threads[3][15].values);
+  // Logger.log(active_threads[2][15].values);
+
+  // if(active_threads[3][15].values == undefined){
+  //   Logger.log(active_threads[3][15].values);
+  // } else {
+  //   Logger.log(active_threads[3][15].values);
+  // }
+
+  // if(active_threads[2][15].values == undefined){
+  //   Logger.log(active_threads[2][15].values);
+  // } else {
+  //   Logger.log(active_threads[2][15].values);
+  // }
+
   var result = tracker_header_template.evaluate().getContent();
 
-  Logger.log(result);
+  // Logger.log(result);
   Logger.log("End generateSampleThreadTracker()");
 
   return result;
 }
 
-Scrawl.prototype.createFile = (char, content) => {
-  var fileName = `ThreadPage_${char}.txt`
+function CreateFile(char, content, filename, i) {
+  var fileName = `${i}_${filename}_${char}.txt`
   var folder1 = 'ALO'
   var folder2 = 'trackers'
 
@@ -118,6 +165,13 @@ Scrawl.prototype.createFile = (char, content) => {
       }
     }
   }
+
+  // verify file exists
+  while(!checkFile(fileName)) {
+    Logger.log(`looking for ${fileName}`);
+  }
+
+  
 }
 
 function compareDates(val1, val2) {
@@ -130,4 +184,22 @@ function compareDates(val1, val2) {
     return -1;
   return 0;
 }
+
+function checkFile(filename){
+  var results;
+  var haBDs  = DriveApp.getFilesByName(filename)
+  //Does not exist
+  if(!haBDs.hasNext()) {
+    results =  haBDs.hasNext();
+    Logger.log(`${filename} does not exist`);
+  }
+  //Does exist
+  else {
+    results =  haBDs.hasNext();
+    Logger.log(`found ${filename}`);
+  }
+  return results;
+}
+
+// 
 
