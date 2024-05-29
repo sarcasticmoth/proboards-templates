@@ -1,23 +1,26 @@
 {
-    "timeZone": "America/Los_Angeles",
-    "dependencies": {
-    },
-    "webapp": {
-      "access": "MYSELF",
-      "executeAs": "USER_DEPLOYING"
-    },
-    "exceptionLogging": "STACKDRIVER",
-    "runtimeVersion": "V8",
-    "sheets": {
-      "macros": [{
+  "timeZone": "America/Los_Angeles",
+  "dependencies": {},
+  "webapp": {
+    "access": "MYSELF",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [
+      {
         "menuName": "Fill Information Sheet",
         "functionName": "populateInformationSheet"
-      }, {
+      },
+      {
         "menuName": "CreatePost",
         "functionName": "CreateCharacterThreadTrackerPost"
-      }, {
+      },
+      {
         "menuName": "FillColor",
         "functionName": "FillColor"
-      }]
-    }
+      }
+    ]
   }
+}
