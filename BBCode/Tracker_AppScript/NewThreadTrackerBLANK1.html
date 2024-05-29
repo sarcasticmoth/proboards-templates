@@ -1,0 +1,87 @@
+[PTab=[div style="color:#253031!important;font-weight:bold;text-transform:uppercase;text-align:left;font-family:var(--typeSerif);font-size:11px;border-left:2px <?= color ?> solid;padding-left:5px;"]ACTIVE[/div]]
+[div][attr="class","tracker-<?= username ?>-yearsbox"]
+
+[div][attr="class","tracker-<?= username ?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
+
+[div][attr="class","tracker-<?= username ?>-yearbody"]
+<? for(var i = 0; i < active_threads.length; i++) { ?>
+[div][attr="class","tracker-<?= username ?>-thread"]| <?= active_threads[i][10] ?> | - [a href="<?= active_threads[i][14] ?>"]<?= active_threads[i][0] ?>[/a]
+<? if(active_threads[i][15].values == undefined) { ?>
+[break]<?= active_threads[i][15] ?>
+<? } else { ?>
+<? for(var j = 0; j < active_threads[i][15].length; j++) { ?>
+[break]<?= active_threads[i][15][j] ?>
+<? } ?>
+<? } ?>   
+[/div]
+<? } ?>
+[/div]
+[/div]
+
+[/PTab={background-color:#FFF;tab-hover-background-color:<?= accent_color ?>;tab-background-color:#FFFFFF;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-transform:uppercase;text-align:left;font-family:var(--typeSerif);font-size:11px;border-left:2px <?= color ?> solid;padding-left:5px;"]COMPLETED[/div]]
+[div][attr="class","tracker-<?= username ?>-yearsbox"]
+
+[div][attr="class","tracker-<?= username ?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
+
+[div][attr="class","tracker-<?= username ?>-yearbody"]
+<? for(var i = 0; i < completed_threads.length; i++) { ?>
+[div][attr="class","tracker-<?= username ?>-thread"]| <?= completed_threads[i][10] ?> | - [a href="<?= completed_threads[i][14] ?>"]<?= completed_threads[i][0] ?>[/a]
+<? if(completed_threads[i][15].values == undefined) { ?>
+[break]<?= completed_threads[i][15] ?>
+<? } else { ?>
+<? for(var j = 0; j < completed_threads[i][15].length; j++) { ?>
+[break]<?= completed_threads[i][15][j] ?>
+<? } ?>
+<? } ?>   
+[/div]
+<? } ?>
+[/div]
+[/div]
+
+[/PTab={background-color:#FFF;tab-hover-background-color:<?= accent_color ?>;tab-background-color:#FFFFFF;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-transform:uppercase;text-align:left;font-family:var(--typeSerif);font-size:11px;border-left:2px <?= color ?> solid;padding-left:5px;"]DEAD[/div]]
+[div][attr="class","tracker-<?= username ?>-yearsbox"]
+
+[div][attr="class","tracker-<?= username ?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
+
+[div][attr="class","tracker-<?= username ?>-yearbody"]
+<? for(var i = 0; i < dead_threads.length; i++) { ?>
+[div][attr="class","tracker-<?= username ?>-thread"]| <?= dead_threads[i][10] ?> | - [a href="<?= dead_threads[i][14] ?>"]<?= dead_threads[i][0] ?>[/a]
+<? if(dead_threads[i][15].values == undefined) { ?>
+[break]<?= dead_threads[i][15] ?>
+<? } else { ?>
+<? for(var j = 0; j < dead_threads[i][15].length; j++) { ?>
+[break]<?= dead_threads[i][15][j] ?>
+<? } ?>
+<? } ?>   
+[/div]
+<? } ?>
+[/div]
+[/div]
+
+[/PTab={background-color:#FFF;tab-hover-background-color:<?= accent_color ?>;tab-background-color:#FFFFFF;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-transform:uppercase;text-align:left;font-family:var(--typeSerif);font-size:11px;border-left:2px <?= color ?> solid;padding-left:5px;"]ONE SHOTS[/div]]
+[div][attr="class","tracker-<?= username ?>-yearsbox"]
+
+[div][attr="class","tracker-<?= username ?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
+
+[div][attr="class","tracker-<?= username ?>-yearbody"]
+<? for(var i = 0; i < one_shots.length; i++) { ?>
+[div][attr="class","tracker-<?= username ?>-thread"]| <?= one_shots[i][10] ?> | - [a href="<?= one_shots[i][14] ?>"]<?= one_shots[i][0] ?>[/a]
+<? if(one_shots[i][15].values == undefined) { ?>
+[break]<?= one_shots[i][15] ?>
+<? } else { ?>
+<? for(var j = 0; j < one_shots[i][15].length; j++) { ?>
+[break]<?= one_shots[i][15][j] ?>
+<? } ?>
+<? } ?>   
+[/div]
+<? } ?>
+[/div]
+[/div]
+
+[/PTab={background-color:#FFF;tab-hover-background-color:<?= accent_color ?>;tab-background-color:#FFFFFF;}]
