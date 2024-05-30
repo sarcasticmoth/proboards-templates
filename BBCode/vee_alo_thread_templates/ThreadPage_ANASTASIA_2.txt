@@ -8,7 +8,7 @@
 
 [div][attr="class","tracker-anastasia-imgbox"]
 [div][attr="class","tracker-anastasia-h1"]ANASTASIA MARIE KARKAROFF[/div]
-[img style="max-width:100%;" src="https://i.imgur.com/fqDL5KU.png"]
+[img style="max-width:100%;" src="https://sig.grumpybumpers.com/host/aloanastasiathread.gif"]
 [/div]
 
 [div style="background-color:#7B2D26;width:100%;height:2px;margin-top:5px;margin-bottom:5px;"][/div]
@@ -21,7 +21,7 @@
 
     [div][attr="class","tracker-anastasia-year"][div][attr="class","tracker-anastasia-h3"]2029[/div][/div]
     [div][attr="class","tracker-anastasia-yearbody"]
-        [div][attr="class","tracker-anastasia-thread"]| 28 Apr 2029[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/12417"]SNAKES IN THE GARDEN[/a][break]&emsp;@cas[/div]
+        [div][attr="class","tracker-anastasia-thread"]| 28 Apr 2029 | - [a href="https://alohomorax0.proboards.com/thread/12417"]SNAKES IN THE GARDEN[/a][break]@cas[/div]
     [/div]
 
 [/div]
@@ -77,7 +77,7 @@
 
     [div][attr="class","tracker-anastasia-year"][div][attr="class","tracker-anastasia-h3"]2019[/div][/div]
     [div][attr="class","tracker-anastasia-yearbody"]
-        [div][attr="class","tracker-anastasia-thread"]01 Sep 2019 - [a href="https://alohomorax0.proboards.com/thread/9965"]ENJOY THE SILENCE[/a][/div]
+        [div][attr="class","tracker-anastasia-thread"]| 01 Sep 2019[break]| [a href="https://alohomorax0.proboards.com/thread/9965"]ENJOY THE SILENCE[/a][/div]
     [/div]
 
 [/div]
@@ -144,3 +144,4 @@
 [newclass=".tracker-anastasia-thread a"]font-size:11px;} [/newclass]
 
 [/div][/div][/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-bottom:5px;width:400px;font-family:'Fjalla One';"]template by [a href="https://alohomorax0.proboards.com/user/1292"]vee[/a][/div]

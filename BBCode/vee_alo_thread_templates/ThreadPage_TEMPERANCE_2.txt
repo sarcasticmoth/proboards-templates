@@ -1,0 +1,121 @@
+[googlefont="Fjalla One"]
+[googlefont="Cantarell"]
+
+[nospaces]
+[div][attr="class","tracker-temperance-wrap"]
+
+[div][attr="class","scrolledbody"]
+
+[div][attr="class","tracker-temperance-imgbox"]
+[div][attr="class","tracker-temperance-h1"]TEMPERANCE ELIZABETH FLEMING[/div]
+[img style="max-width:100%;" src="https://sig.grumpybumpers.com/host/alotemperancethread.gif"]
+[/div]
+
+[div style="background-color:#6F5D68;width:100%;height:2px;margin-top:5px;margin-bottom:5px;"][/div]
+[PTabbedContent]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #6F5D68 solid;padding-left:5px;"]ACTIVE[/div]]
+[div style="background-color:#6F5D68;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-temperance-yearsbox"]
+
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2028[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 18 Feb 2028 | - [a href="https://alohomorax0.proboards.com/thread/12004"]BLACKBIRD[/a][break]@mickey[/div]
+        [div][attr="class","tracker-temperance-thread"]| 11 Apr 2028 | - [a href="https://alohomorax0.proboards.com/thread/12082"]SEWN FOR SOLITUDE[/a][break]@mcgonagall[break]@camila[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#AB9BA5;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #6F5D68 solid;padding-left:5px;"]COMPLETED[/div]]
+[div style="background-color:#6F5D68;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-temperance-yearsbox"]
+
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2025[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 01 Dec 2025 | - [a href="https://alohomorax0.proboards.com/thread/11339"]GHOST TOWN[/a][break]@calliope[/div]
+    [/div]
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2026[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 16 May 2026 | - [a href="https://alohomorax0.proboards.com/thread/11340"]HEADS WILL ROLL[/a][break]@elijah[/div]
+    [/div]
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2028[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 09 Feb 2028 | - [a href="https://alohomorax0.proboards.com/thread/12003"]CENTURIES[/a][break]@grey[/div]
+        [div][attr="class","tracker-temperance-thread"]| 04 Mar 2028 | - [a href="https://alohomorax0.proboards.com/thread/12035"]THE GHOST OF YOU[/a][break]@elijah[/div]
+        [div][attr="class","tracker-temperance-thread"]| 04 Mar 2028 | - [a href="https://alohomorax0.proboards.com/thread/12040"]MOURNING HYMN[/a][break]@shiloh[/div]
+        [div][attr="class","tracker-temperance-thread"]| 17 Mar 2028 | - [a href="https://alohomorax0.proboards.com/thread/12108"]IN THE MOURNING[/a][break]@calliope[break]@elijah[break]@shiloh[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#AB9BA5;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #6F5D68 solid;padding-left:5px;"]ONE SHOTS[/div]]
+[div style="background-color:#6F5D68;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-temperance-yearsbox"]
+
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2028[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 07 Mar 2028[break]| [a href="https://alohomorax0.proboards.com/thread/12107"]THE MAN WHO SOLD THE WORLD[/a][/div]
+    [/div]
+
+[/div]
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#AB9BA5;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #6F5D68 solid;padding-left:5px;"]DEAD[/div]]
+[div style="background-color:#6F5D68;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-temperance-yearsbox"]
+
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2027[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 11 Jan 2027 | - [a href="https://alohomorax0.proboards.com/thread/11627"]ARRESTED DEVELOPMENT[/a][break]@vivian[/div]
+        [div][attr="class","tracker-temperance-thread"]| 01 May 2027 | - [a href="https://alohomorax0.proboards.com/thread/11694"]WEST COAST[/a][break]@monday[/div]
+        [div][attr="class","tracker-temperance-thread"]| 02 Aug 2027 | - [a href="https://alohomorax0.proboards.com/thread/11793"]IN-A-GADDA-DA-VIDA[/a][break]@lucrezia[/div]
+    [/div]
+    [div][attr="class","tracker-temperance-year"][div][attr="class","tracker-temperance-h3"]2028[/div][/div]
+    [div][attr="class","tracker-temperance-yearbody"]
+        [div][attr="class","tracker-temperance-thread"]| 03 Feb 2028 | - [a href="https://alohomorax0.proboards.com/thread/12024"]BUBBLE POP[/a][break]@yara[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#AB9BA5;tab-background-color:#FAF9F6;}]
+
+[/PTabbedContent={border:0;}]
+
+[div style="height:0;overflow:hidden;"]
+[newclass=".tracker-temperance-wrap"]margin:30px auto;max-width:575px;--accent:#6F5D68;--typeSerif:'Fjalla One';--typeFont:'Cantarell';max-height:750px;[/newclass]
+[newclass=".tracker-temperance-imgbox"]width:100%;height:150px;position:relative;display:flex;align-items:center;justify-content:center;[/newclass] 
+[newclass=".tracker-temperance-imgbox img"]width:100%;height:100%;object-fit:cover;filter:brightness(.5) contrast(1) saturate(2);mix-blend-mode:soft-light;top:0;left:0;z-index:2;[/newclass]
+[newclass=".tracker-temperance-imgbox:before"]content:'';position:absolute;width:100%;height:100%;z-index:1;background-color:var(--accent);top:0;left:0;[/newclass]
+[newclass=".tracker-temperance-h1"]position:absolute;z-index:20;color:rgba(255,255,255,1);font-family:var(--typeSerif);font-weight:300;font-size:32px;line-height:1.3em;letter-spacing:.5px;text-align:center;margin:0 10px;text-shadow: #000 2px 0 10px;[/newclass]
+[newclass=".noimg .tracker-temperance-imgbox"]height:max-content;[/newclass]
+[newclass=".noimg .tracker-temperance-imgbox img,.noimg .tracker-temperance-imgbox:before"]display:none;[/newclass]
+[newclass=".noimg .tracker-temperance-h1"]color:#222;color:var(--accent);position:relative;font-weight:600;letter-spacing:0.25px;margin:0;[/newclass]
+[newclass=".tracker-temperance-yearsbox"]margin:10px 0px 0;display:grid;grid-template-columns:auto 1fr;font:13px/18px'Cantarell',san-serif;color:#222;z-index:5;position:relative;width:500px;max-height:550px;border:0;overflow:auto;[/newclass]
+[newclass=".noimg .tracker-temperance-yearsbox"]margin-top:15px;[/newclass]
+[newclass=".tracker-temperance-year"]font-size:15px;font-family:var(--typeSerif);font-weight:bold;margin-right:25px;margin-left:25px;color:var(--accent);display:flex;flex-direction:column;justify-content:flex-start;[/newclass]
+[newclass=".tracker-temperance-yearsbox br+br"]content:'';display:block;height:10px;[/newclass]
+[newclass=".tracker-temperance-h3"]padding:2px 0 2px;border-bottom:1px solid var(--accent);display:inline;width:max-content;max-width:100px;[/newclass]
+[newclass=".tracker-temperance-h3::after"]content:'';display:block;margin:10px auto 0;height:100%;width:1px;background-color:var(--accent);display:none;[/newclass]
+[newclass=".tracker-temperance-yearbody"]padding-top:2px;margin-bottom:15px;[/newclass]
+[newclass=".tracker-temperance-thread"]margin:0 0 15px;font-style:italic;[/newclass]
+[newclass=".tracker-temperance-thread:last-of-type"]margin-bottom:5px;[/newclass]
+[newclass=".tracker-temperance-thread"]font-size:12px;line-height:15px;font-family:var(--typeFont);font-weight:400;font-style:normal;text-transform:lowercase;text-decoration:none;color:#222;transition:.25s;[/newclass]
+[newclass=".tracker-temperance-thread a"]color:#525252;text-transform:uppercase;[/newclass]
+[newclass=".tracker-temperance-thread a:hover"]margin-left:5px;} @media only screen and (max-width:480px) {.scoopedborder {padding:30px 20px 20px;[/newclass]
+[newclass=".tracker-temperance-yearsbox"]display:grid;grid-template-columns:1fr;margin:20px 0 0;[/newclass]
+[newclass=".noimg .tracker-temperance-yearsbox"]margin-top:20px;[/newclass]
+[newclass=".tracker-temperance-year"]margin:0 auto 10px;[/newclass]
+[newclass=".tracker-temperance-h3"]border-bottom:1px solid var(--accent);[/newclass]
+[newclass=".tracker-temperance-h1"]font-size:13px;[/newclass]
+[newclass=".tracker-temperance-thread a"]font-size:11px;} [/newclass]
+
+[/div][/div][/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-bottom:5px;width:400px;font-family:'Fjalla One';"]template by [a href="https://alohomorax0.proboards.com/user/1292"]vee[/a][/div]

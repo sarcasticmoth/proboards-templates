@@ -1,0 +1,116 @@
+[googlefont="Fjalla One"]
+[googlefont="Cantarell"]
+
+[nospaces]
+[div][attr="class","tracker-lupin-wrap"]
+
+[div][attr="class","scrolledbody"]
+
+[div][attr="class","tracker-lupin-imgbox"]
+[div][attr="class","tracker-lupin-h1"]EDWARD REMUS LUPIN[/div]
+[img style="max-width:100%;" src="https://sig.grumpybumpers.com/host/alolupinthread.gif"]
+[/div]
+
+[div style="background-color:#255957;width:100%;height:2px;margin-top:5px;margin-bottom:5px;"][/div]
+[PTabbedContent]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #255957 solid;padding-left:5px;"]ACTIVE[/div]]
+[div style="background-color:#255957;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-lupin-yearsbox"]
+
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]2015[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 01 Aug 2015 | - [a href="https://alohomorax0.proboards.com/thread/12351"]NEON GRAVESTONES[/a][break]@harry[/div]
+        [div][attr="class","tracker-lupin-thread"]| 16 Sep 2015 | - [a href="https://alohomorax0.proboards.com/thread/12353"]BUSY BEES[/a][break]@claire[/div]
+    [/div]
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]2022[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 01 Jun 2022 | - [a href="https://alohomorax0.proboards.com/thread/12355"]HOMETOWN[/a][break]@ginny[/div]
+    [/div]
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]2027[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 01 Mar 2027 | - [a href="https://alohomorax0.proboards.com/thread/12354"]COMPASS[/a][break]@florence[/div]
+    [/div]
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]2029[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 03 Jan 2029 | - [a href="https://alohomorax0.proboards.com/thread/12392"]SMILE LIKE YOU MEAN IT[/a][break]@albus[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#52B7B3;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #255957 solid;padding-left:5px;"]COMPLETED[/div]]
+[div style="background-color:#255957;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-lupin-yearsbox"]
+
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]2016[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 15 Sep 2016 | - [a href="URL"]THREAD NAME[/a][break]@username[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#52B7B3;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #255957 solid;padding-left:5px;"]ONE SHOTS[/div]]
+[div style="background-color:#255957;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-lupin-yearsbox"]
+
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]0000[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 01 Jan 0000[break]| [a href="URL"]THREAD NAME[/a][/div]
+    [/div]
+
+[/div]
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#52B7B3;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #255957 solid;padding-left:5px;"]DEAD[/div]]
+[div style="background-color:#255957;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-lupin-yearsbox"]
+
+    [div][attr="class","tracker-lupin-year"][div][attr="class","tracker-lupin-h3"]2016[/div][/div]
+    [div][attr="class","tracker-lupin-yearbody"]
+        [div][attr="class","tracker-lupin-thread"]| 15 Sep 2016 | - [a href="URL"]THREAD NAME[/a][break]@username[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#52B7B3;tab-background-color:#FAF9F6;}]
+
+[/PTabbedContent={border:0;}]
+
+[div style="height:0;overflow:hidden;"]
+[newclass=".tracker-lupin-wrap"]margin:30px auto;max-width:575px;--accent:#255957;--typeSerif:'Fjalla One';--typeFont:'Cantarell';max-height:750px;[/newclass]
+[newclass=".tracker-lupin-imgbox"]width:100%;height:150px;position:relative;display:flex;align-items:center;justify-content:center;[/newclass] 
+[newclass=".tracker-lupin-imgbox img"]width:100%;height:100%;object-fit:cover;filter:brightness(.5) contrast(1) saturate(2);mix-blend-mode:soft-light;top:0;left:0;z-index:2;[/newclass]
+[newclass=".tracker-lupin-imgbox:before"]content:'';position:absolute;width:100%;height:100%;z-index:1;background-color:var(--accent);top:0;left:0;[/newclass]
+[newclass=".tracker-lupin-h1"]position:absolute;z-index:20;color:rgba(255,255,255,1);font-family:var(--typeSerif);font-weight:300;font-size:32px;line-height:1.3em;letter-spacing:.5px;text-align:center;margin:0 10px;text-shadow: #000 2px 0 10px;[/newclass]
+[newclass=".noimg .tracker-lupin-imgbox"]height:max-content;[/newclass]
+[newclass=".noimg .tracker-lupin-imgbox img,.noimg .tracker-lupin-imgbox:before"]display:none;[/newclass]
+[newclass=".noimg .tracker-lupin-h1"]color:#222;color:var(--accent);position:relative;font-weight:600;letter-spacing:0.25px;margin:0;[/newclass]
+[newclass=".tracker-lupin-yearsbox"]margin:10px 0px 0;display:grid;grid-template-columns:auto 1fr;font:13px/18px'Cantarell',san-serif;color:#222;z-index:5;position:relative;width:500px;max-height:550px;border:0;overflow:auto;[/newclass]
+[newclass=".noimg .tracker-lupin-yearsbox"]margin-top:15px;[/newclass]
+[newclass=".tracker-lupin-year"]font-size:15px;font-family:var(--typeSerif);font-weight:bold;margin-right:25px;margin-left:25px;color:var(--accent);display:flex;flex-direction:column;justify-content:flex-start;[/newclass]
+[newclass=".tracker-lupin-yearsbox br+br"]content:'';display:block;height:10px;[/newclass]
+[newclass=".tracker-lupin-h3"]padding:2px 0 2px;border-bottom:1px solid var(--accent);display:inline;width:max-content;max-width:100px;[/newclass]
+[newclass=".tracker-lupin-h3::after"]content:'';display:block;margin:10px auto 0;height:100%;width:1px;background-color:var(--accent);display:none;[/newclass]
+[newclass=".tracker-lupin-yearbody"]padding-top:2px;margin-bottom:15px;[/newclass]
+[newclass=".tracker-lupin-thread"]margin:0 0 15px;font-style:italic;[/newclass]
+[newclass=".tracker-lupin-thread:last-of-type"]margin-bottom:5px;[/newclass]
+[newclass=".tracker-lupin-thread"]font-size:12px;line-height:15px;font-family:var(--typeFont);font-weight:400;font-style:normal;text-transform:lowercase;text-decoration:none;color:#222;transition:.25s;[/newclass]
+[newclass=".tracker-lupin-thread a"]color:#525252;text-transform:uppercase;[/newclass]
+[newclass=".tracker-lupin-thread a:hover"]margin-left:5px;} @media only screen and (max-width:480px) {.scoopedborder {padding:30px 20px 20px;[/newclass]
+[newclass=".tracker-lupin-yearsbox"]display:grid;grid-template-columns:1fr;margin:20px 0 0;[/newclass]
+[newclass=".noimg .tracker-lupin-yearsbox"]margin-top:20px;[/newclass]
+[newclass=".tracker-lupin-year"]margin:0 auto 10px;[/newclass]
+[newclass=".tracker-lupin-h3"]border-bottom:1px solid var(--accent);[/newclass]
+[newclass=".tracker-lupin-h1"]font-size:13px;[/newclass]
+[newclass=".tracker-lupin-thread a"]font-size:11px;} [/newclass]
+
+[/div][/div][/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-bottom:5px;width:400px;font-family:'Fjalla One';"]template by [a href="https://alohomorax0.proboards.com/user/1292"]vee[/a][/div]

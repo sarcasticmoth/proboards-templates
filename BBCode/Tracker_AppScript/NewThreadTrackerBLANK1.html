@@ -4,7 +4,7 @@
     [div][attr="class","tracker-<?= username?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
     [div][attr="class","tracker-<?= username ?>-yearbody"]
     <? for(var i = 0; i < active_threads.length; i++) { ?>
-        [div][attr="class","tracker-<?= username ?>-thread"]| <?= active_threads[i][10]?>[break]&emsp;[a href="<?= active_threads[i][14] ?>"]<?= active_threads[i][0] ?>[/a]<? if(active_threads[i][15].values == undefined) { ?>[break]&emsp;<?= active_threads[i][15] ?><? } else { ?><? for(var j = 0; j < active_threads[i][15].length; j++) { ?>[break]&emsp;<?= active_threads[i][15][j] ?><? } ?><? } ?>[/div]
+        [div][attr="class","tracker-<?= username ?>-thread"]| <?= active_threads[i][10] ?> | - [a href="<?= active_threads[i][14] ?>"]<?= active_threads[i][0] ?>[/a]<? if(active_threads[i][15].values == undefined) { ?>[break]<?= active_threads[i][15] ?><? } else { ?><? for(var j = 0; j < active_threads[i][15].length; j++) { ?>[break]<?= active_threads[i][15][j] ?><? } ?><? } ?>[/div]
     <? } ?>
     [/div]
 [/div]
@@ -30,7 +30,7 @@
     [div][attr="class","tracker-<?= username ?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
     [div][attr="class","tracker-<?= username ?>-yearbody"]
     <? for(var i = 0; i < one_shots.length; i++) { ?>
-        [div][attr="class","tracker-<?= username ?>-thread"]<?= one_shots[i][10] ?> - [a href="<?= one_shots[i][14] ?>"]<?= one_shots[i][0] ?>[/a][/div]
+        [div][attr="class","tracker-<?= username ?>-thread"]| <?= one_shots[i][10] ?>[break]| [a href="<?= one_shots[i][14] ?>"]<?= one_shots[i][0] ?>[/a][/div]
     <? } ?>
     [/div]
 [/div]

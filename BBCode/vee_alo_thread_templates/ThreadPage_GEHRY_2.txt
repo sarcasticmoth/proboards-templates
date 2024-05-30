@@ -8,7 +8,7 @@
 
 [div][attr="class","tracker-gehry-imgbox"]
 [div][attr="class","tracker-gehry-h1"]GEHRY BENJAMIN OLLIVANDER[/div]
-[img style="max-width:100%;" src="https://i.imgur.com/n0QAXUI.jpg"]
+[img style="max-width:100%;" src="https://sig.grumpybumpers.com/host/alogehrythread.gif"]
 [/div]
 
 [div style="background-color:#DEB12A;width:100%;height:2px;margin-top:5px;margin-bottom:5px;"][/div]
@@ -21,17 +21,17 @@
 
     [div][attr="class","tracker-gehry-year"][div][attr="class","tracker-gehry-h3"]2027[/div][/div]
     [div][attr="class","tracker-gehry-yearbody"]
-        [div][attr="class","tracker-gehry-thread"]| 07 May 2027[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/11688"]DAY DREAMING[/a][break]&emsp;@nell[/div]
-        [div][attr="class","tracker-gehry-thread"]| 24 Jul 2027[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/11763"]SUMMER RAIN[/a][break]&emsp;@lily[/div]
-        [div][attr="class","tracker-gehry-thread"]| 03 Sep 2027[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/11860"]GO WITH THE FLOW[/a][break]&emsp;@gideon[/div]
+        [div][attr="class","tracker-gehry-thread"]| 07 May 2027 | - [a href="https://alohomorax0.proboards.com/thread/11688"]DAY DREAMING[/a][break]@nell[/div]
+        [div][attr="class","tracker-gehry-thread"]| 24 Jul 2027 | - [a href="https://alohomorax0.proboards.com/thread/11763"]SUMMER RAIN[/a][break]@lily[/div]
+        [div][attr="class","tracker-gehry-thread"]| 03 Sep 2027 | - [a href="https://alohomorax0.proboards.com/thread/11860"]GO WITH THE FLOW[/a][break]@gideon[/div]
     [/div]
     [div][attr="class","tracker-gehry-year"][div][attr="class","tracker-gehry-h3"]2028[/div][/div]
     [div][attr="class","tracker-gehry-yearbody"]
-        [div][attr="class","tracker-gehry-thread"]| 10 Feb 2028[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/12020"]STRAWBERRY FIELDS FOREVER[/a][break]&emsp;@felix[/div]
-        [div][attr="class","tracker-gehry-thread"]| 14 Feb 2028[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/12012"]HIGHWAY UNICORN[/a][break]&emsp;@mina[/div]
-        [div][attr="class","tracker-gehry-thread"]| 29 May 2028[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/12113"]LAST SPRING WHISPER[/a][break]&emsp;@rue[/div]
-        [div][attr="class","tracker-gehry-thread"]| 25 Aug 2028[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/12345"]YOU SHOULD BE DANCING[/a][break]&emsp;@dahlia[/div]
-        [div][attr="class","tracker-gehry-thread"]| 01 Dec 2028[break]&emsp;[a href="https://alohomorax0.proboards.com/thread/12267"]DIAMONDS &amp; DANCEFLOORS[/a][break]&emsp;@nova[/div]
+        [div][attr="class","tracker-gehry-thread"]| 10 Feb 2028 | - [a href="https://alohomorax0.proboards.com/thread/12020"]STRAWBERRY FIELDS FOREVER[/a][break]@felix[/div]
+        [div][attr="class","tracker-gehry-thread"]| 14 Feb 2028 | - [a href="https://alohomorax0.proboards.com/thread/12012"]HIGHWAY UNICORN[/a][break]@mina[/div]
+        [div][attr="class","tracker-gehry-thread"]| 29 May 2028 | - [a href="https://alohomorax0.proboards.com/thread/12113"]LAST SPRING WHISPER[/a][break]@rue[/div]
+        [div][attr="class","tracker-gehry-thread"]| 25 Aug 2028 | - [a href="https://alohomorax0.proboards.com/thread/12345"]YOU SHOULD BE DANCING[/a][break]@dahlia[/div]
+        [div][attr="class","tracker-gehry-thread"]| 01 Dec 2028 | - [a href="https://alohomorax0.proboards.com/thread/12267"]DIAMONDS &amp; DANCEFLOORS[/a][break]@nova[/div]
     [/div]
 
 [/div]
@@ -67,7 +67,7 @@
 
     [div][attr="class","tracker-gehry-year"][div][attr="class","tracker-gehry-h3"]0000[/div][/div]
     [div][attr="class","tracker-gehry-yearbody"]
-        [div][attr="class","tracker-gehry-thread"]| 01 Jan 0000 | - [a href="URL"]THREAD NAME[/a][/div]
+        [div][attr="class","tracker-gehry-thread"]| 01 Jan 0000[break]| [a href="URL"]THREAD NAME[/a][/div]
     [/div]
 
 [/div]
@@ -121,3 +121,4 @@
 [newclass=".tracker-gehry-thread a"]font-size:11px;} [/newclass]
 
 [/div][/div][/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-bottom:5px;width:400px;font-family:'Fjalla One';"]template by [a href="https://alohomorax0.proboards.com/user/1292"]vee[/a][/div]

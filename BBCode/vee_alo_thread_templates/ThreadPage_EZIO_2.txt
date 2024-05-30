@@ -1,0 +1,110 @@
+[googlefont="Fjalla One"]
+[googlefont="Cantarell"]
+
+[nospaces]
+[div][attr="class","tracker-ezio-wrap"]
+
+[div][attr="class","scrolledbody"]
+
+[div][attr="class","tracker-ezio-imgbox"]
+[div][attr="class","tracker-ezio-h1"]EZIO LUCA BRUNO OSVALDO WEEKLY[/div]
+[img style="max-width:100%;" src="https://sig.grumpybumpers.com/host/aloeziothread.gif"]
+[/div]
+
+[div style="background-color:#FFE381;width:100%;height:2px;margin-top:5px;margin-bottom:5px;"][/div]
+[PTabbedContent]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #FFE381 solid;padding-left:5px;"]ACTIVE[/div]]
+[div style="background-color:#FFE381;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-ezio-yearsbox"]
+
+    [div][attr="class","tracker-ezio-year"][div][attr="class","tracker-ezio-h3"]2028[/div][/div]
+    [div][attr="class","tracker-ezio-yearbody"]
+        [div][attr="class","tracker-ezio-thread"]| 30 Aug 2028 | - [a href="https://alohomorax0.proboards.com/thread/12410"]CALIFORNIA DREAMING[/a][break]@monday[break]@charlie[/div]
+        [div][attr="class","tracker-ezio-thread"]| 14 Sep 2028 | - [a href="https://alohomorax0.proboards.com/thread/12411"]WHAT DOESNT KILL YOU MUTATES AND TRIES AGAIN[/a][break]@theo[/div]
+        [div][attr="class","tracker-ezio-thread"]| 14 Oct 2028 | - [a href="https://alohomorax0.proboards.com/thread/12412"]WE LIKE SPORTZ[/a][break]@tilly[break]@theo[/div]
+        [div][attr="class","tracker-ezio-thread"]| 02 Dec 2028 | - [a href="https://alohomorax0.proboards.com/thread/12419"]GOLD LION[/a][break]@sammy[/div]
+    [/div]
+    [div][attr="class","tracker-ezio-year"][div][attr="class","tracker-ezio-h3"]2029[/div][/div]
+    [div][attr="class","tracker-ezio-yearbody"]
+        [div][attr="class","tracker-ezio-thread"]| 01 Jul 2029 | - [a href="https://alohomorax0.proboards.com/thread/12437"]WELL THOUGHT OUT TWINKLES[/a][break]@idele[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#FFEDAD;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #FFE381 solid;padding-left:5px;"]COMPLETED[/div]]
+[div style="background-color:#FFE381;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-ezio-yearsbox"]
+
+    [div][attr="class","tracker-ezio-year"][div][attr="class","tracker-ezio-h3"]2016[/div][/div]
+    [div][attr="class","tracker-ezio-yearbody"]
+        [div][attr="class","tracker-ezio-thread"]| 15 Sep 2016 | - [a href="URL"]THREAD NAME[/a][break]@username[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#FFEDAD;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #FFE381 solid;padding-left:5px;"]ONE SHOTS[/div]]
+[div style="background-color:#FFE381;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-ezio-yearsbox"]
+
+    [div][attr="class","tracker-ezio-year"][div][attr="class","tracker-ezio-h3"]0000[/div][/div]
+    [div][attr="class","tracker-ezio-yearbody"]
+        [div][attr="class","tracker-ezio-thread"]| 01 Jan 0000[break]| [a href="URL"]THREAD NAME[/a][/div]
+    [/div]
+
+[/div]
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#FFEDAD;tab-background-color:#FAF9F6;}]
+
+[PTab=[div style="color:#253031!important;font-weight:bold;text-align:left;font-family:'Fjalla One';font-size:14px;border-left:2px #FFE381 solid;padding-left:5px;"]DEAD[/div]]
+[div style="background-color:#FFE381;width:100%;height:2px;"][/div]
+
+[div][attr="class","tracker-ezio-yearsbox"]
+
+    [div][attr="class","tracker-ezio-year"][div][attr="class","tracker-ezio-h3"]2016[/div][/div]
+    [div][attr="class","tracker-ezio-yearbody"]
+        [div][attr="class","tracker-ezio-thread"]| 15 Sep 2016 | - [a href="URL"]THREAD NAME[/a][break]@username[/div]
+    [/div]
+
+[/div]
+
+[/PTab={background-color:#FAF9F6;tab-hover-background-color:#FFEDAD;tab-background-color:#FAF9F6;}]
+
+[/PTabbedContent={border:0;}]
+
+[div style="height:0;overflow:hidden;"]
+[newclass=".tracker-ezio-wrap"]margin:30px auto;max-width:575px;--accent:#FFE381;--typeSerif:'Fjalla One';--typeFont:'Cantarell';max-height:750px;[/newclass]
+[newclass=".tracker-ezio-imgbox"]width:100%;height:150px;position:relative;display:flex;align-items:center;justify-content:center;[/newclass] 
+[newclass=".tracker-ezio-imgbox img"]width:100%;height:100%;object-fit:cover;filter:brightness(.5) contrast(1) saturate(2);mix-blend-mode:soft-light;top:0;left:0;z-index:2;[/newclass]
+[newclass=".tracker-ezio-imgbox:before"]content:'';position:absolute;width:100%;height:100%;z-index:1;background-color:var(--accent);top:0;left:0;[/newclass]
+[newclass=".tracker-ezio-h1"]position:absolute;z-index:20;color:rgba(255,255,255,1);font-family:var(--typeSerif);font-weight:300;font-size:32px;line-height:1.3em;letter-spacing:.5px;text-align:center;margin:0 10px;text-shadow: #000 2px 0 10px;[/newclass]
+[newclass=".noimg .tracker-ezio-imgbox"]height:max-content;[/newclass]
+[newclass=".noimg .tracker-ezio-imgbox img,.noimg .tracker-ezio-imgbox:before"]display:none;[/newclass]
+[newclass=".noimg .tracker-ezio-h1"]color:#222;color:var(--accent);position:relative;font-weight:600;letter-spacing:0.25px;margin:0;[/newclass]
+[newclass=".tracker-ezio-yearsbox"]margin:10px 0px 0;display:grid;grid-template-columns:auto 1fr;font:13px/18px'Cantarell',san-serif;color:#222;z-index:5;position:relative;width:500px;max-height:550px;border:0;overflow:auto;[/newclass]
+[newclass=".noimg .tracker-ezio-yearsbox"]margin-top:15px;[/newclass]
+[newclass=".tracker-ezio-year"]font-size:15px;font-family:var(--typeSerif);font-weight:bold;margin-right:25px;margin-left:25px;color:var(--accent);display:flex;flex-direction:column;justify-content:flex-start;[/newclass]
+[newclass=".tracker-ezio-yearsbox br+br"]content:'';display:block;height:10px;[/newclass]
+[newclass=".tracker-ezio-h3"]padding:2px 0 2px;border-bottom:1px solid var(--accent);display:inline;width:max-content;max-width:100px;[/newclass]
+[newclass=".tracker-ezio-h3::after"]content:'';display:block;margin:10px auto 0;height:100%;width:1px;background-color:var(--accent);display:none;[/newclass]
+[newclass=".tracker-ezio-yearbody"]padding-top:2px;margin-bottom:15px;[/newclass]
+[newclass=".tracker-ezio-thread"]margin:0 0 15px;font-style:italic;[/newclass]
+[newclass=".tracker-ezio-thread:last-of-type"]margin-bottom:5px;[/newclass]
+[newclass=".tracker-ezio-thread"]font-size:12px;line-height:15px;font-family:var(--typeFont);font-weight:400;font-style:normal;text-transform:lowercase;text-decoration:none;color:#222;transition:.25s;[/newclass]
+[newclass=".tracker-ezio-thread a"]color:#525252;text-transform:uppercase;[/newclass]
+[newclass=".tracker-ezio-thread a:hover"]margin-left:5px;} @media only screen and (max-width:480px) {.scoopedborder {padding:30px 20px 20px;[/newclass]
+[newclass=".tracker-ezio-yearsbox"]display:grid;grid-template-columns:1fr;margin:20px 0 0;[/newclass]
+[newclass=".noimg .tracker-ezio-yearsbox"]margin-top:20px;[/newclass]
+[newclass=".tracker-ezio-year"]margin:0 auto 10px;[/newclass]
+[newclass=".tracker-ezio-h3"]border-bottom:1px solid var(--accent);[/newclass]
+[newclass=".tracker-ezio-h1"]font-size:13px;[/newclass]
+[newclass=".tracker-ezio-thread a"]font-size:11px;} [/newclass]
+
+[/div][/div][/div]
+[div style="margin:auto;text-align:center;font-size:10px;color:#666;padding-bottom:5px;width:400px;font-family:'Fjalla One';"]template by [a href="https://alohomorax0.proboards.com/user/1292"]vee[/a][/div]
