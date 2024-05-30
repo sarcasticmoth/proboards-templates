@@ -1,0 +1,10 @@
+
+[div][attr="class","tracker-<?= username ?>-yearsbox"]
+
+    [div][attr="class","tracker-<?= username ?>-year"][div][attr="class","tracker-<?= username ?>-h3"]0000[/div][/div]
+    [div][attr="class","tracker-<?= username ?>-yearbody"]
+    <? for(var i = 0; i < threads.length; i++) { ?>
+        [div][attr="class","tracker-<?= username ?>-thread"]| <?= threads[i][10] ?>[break]| [a href="<?= threads[i][14] ?>"]<?= threads[i][0] ?>[/a][/div]
+    <? } ?>
+    [/div]
+[/div]
