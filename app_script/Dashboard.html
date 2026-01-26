@@ -1,0 +1,139 @@
+<!-- =======================
+File: Dashboard.html
+Purpose: Sidebar / Web App dashboard. Values-only, client filters, fast.
+======================= -->
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <base target="_top">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body { font: 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; padding: 16px; }
+      .row { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
+      select, input { padding:6px 8px; }
+      table { border-collapse: collapse; width: 100%; }
+      th, td { border: 1px solid #ddd; padding: 6px 8px; }
+      th { position: sticky; top: 0; background: #f5f5f5; }
+      .pill { padding: 2px 8px; border-radius: 999px; border: 1px solid #ddd; }
+      .muted { color: #666; }
+    </style>
+  </head>
+  <body>
+    <h2>Post Tracker</h2>
+    <div class="row">
+      <label>Character
+        <select id="fCharacter"><option value="">All</option></select>
+      </label>
+      <label>Year
+        <select id="fYear"><option value="">All</option></select>
+      </label>
+      <label>Status
+        <select id="fStatus">
+          <option value="">All</option>
+          <option>Open</option>
+          <option>Complete</option>
+          <option>Dead</option>
+        </select>
+      </label>
+      <label>Search
+        <input id="q" type="search" placeholder="Partner/Username…" />
+      </label>
+    </div>
+
+    <div class="row muted" id="stats"></div>
+
+    <table id="grid">
+      <thead>
+        <tr>
+          <th>Year</th><th>Character</th><th>Partner</th><th>Type</th>
+          <th>Status</th><th>Date</th><th>Word Count</th><th>Link</th><th>Username</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script>
+      let DATA = { summary: [], activity: [] };
+
+      function uniq(a, key) { return [...new Set(a.map(x => x[key]).filter(Boolean))].sort(); }
+
+      function fillSelect(id, values) {
+        const el = document.getElementById(id);
+        const current = el.value;
+        el.innerHTML = '<option value="">All</option>' + values.map(v=>`<option>${v}</option>`).join('');
+        if ([...el.options].some(o=>o.value===current)) el.value = current;
+      }
+
+      function renderFilters() {
+        const s = DATA.summary;
+        fillSelect('fCharacter', uniq(s, 'Character'));
+        fillSelect('fYear', uniq(s, 'Year'));
+      }
+
+      function fmtDate(any) {
+        if (!any) return '';
+        try { return new Date(any).toLocaleDateString(undefined, { day:'2-digit', month:'short', year:'numeric' }); }
+        catch(e) { return any; }
+      }
+
+      function toNumSafe(v) { const n = Number(v); return Number.isFinite(n) ? n : 0; }
+
+      function renderTable() {
+        const fc = document.getElementById('fCharacter').value;
+        const fy = document.getElementById('fYear').value;
+        const fs = document.getElementById('fStatus').value;
+        const q = document.getElementById('q').value.toLowerCase().trim();
+
+        const rows = DATA.summary.filter(r => {
+          if (fc && r.Character !== fc) return false;
+          if (fy && String(r.Year) !== String(fy)) return false;
+          if (fs && r.Status !== fs) return false;
+          if (q && !(`${r.Partner||''} ${r.Username||''}`.toLowerCase().includes(q))) return false;
+          return true;
+        });
+
+        const totals = {
+          rows: rows.length,
+          words: rows.map(r => toNumSafe(r.WordCount)).reduce((a,b)=>a+b,0),
+          open: rows.filter(r => r.Status==='Open').length,
+          done: rows.filter(r => r.Status==='Complete').length,
+          dead: rows.filter(r => r.Status==='Dead').length
+        };
+        document.getElementById('stats').innerHTML =
+          `<span class="pill">Rows: ${totals.rows}</span>
+           <span class="pill">Total Words (You): ${totals.words}</span>
+           <span class="pill">Open: ${totals.open}</span>
+           <span class="pill">Complete: ${totals.done}</span>
+           <span class="pill">Dead: ${totals.dead}</span>`;
+
+        const tbody = document.querySelector('#grid tbody');
+        tbody.innerHTML = rows.map(r => `
+          <tr>
+            <td>${r.Year||''}</td>
+            <td>${r.Character||''}</td>
+            <td>${r.Partner||''}</td>
+            <td>${r.Type||''}</td>
+            <td>${r.Status||''}</td>
+            <td>${r.DateFmt||fmtDate(r.Date)}</td>
+            <td>${r.WordCount ?? ''}</td>
+            <td>${r.URL ? `<a href="${r.URL}" target="_blank">Open</a>` : ''}</td>
+            <td>${r.Username||''}</td>
+          </tr>
+        `).join('');
+      }
+
+      function bind() {
+        ['fCharacter','fYear','fStatus','q'].forEach(id =>
+          document.getElementById(id).addEventListener('input', renderTable));
+      }
+
+      google.script.run.withSuccessHandler(payload => {
+        DATA = payload;
+        renderFilters();
+        renderTable();
+        bind();
+      }).getDashboardData();
+    </script>
+  </body>
+</html>
